@@ -1,0 +1,2343 @@
+1	Nha N2C KDT Trung Hoa Nhan Chinh
+2	Truong THPT Chuyen Ha Noi - Amsterdam (Hoang Minh Giam)
+3	Truong THPT Nguyen Binh Khiem
+4	Doi dien nha CT5 KDT Song Da My Dinh
+5	He truoc so C23-24 o dat A10 - KDT Nam Trung Yen
+6	Qua nga 4 Pham Hung-Dinh Thon
+7	Doi Dien Nha B6C
+8	Ben xe My Dinh
+9	90 Nguyen Tuan
+10	Lang Sinh vien Hacinco - Nguyen Tuan
+11	322 Nguyen Trai
+12	Cho Thuong Dinh
+13	94 Nguyen Trai
+14	290 Tay Son
+15	Cong ty in thuong mai va dich vu ngan hang
+16	109 Pham Ngoc Thach
+17	101A2 Tap the Trung Tu
+18	120 Dai Co Viet
+19	172 Lo Duc
+20	340-342 Tran Khat Chan
+21	34 - 36 Tang Bat Ho
+22	Doi dien Benh Vien Trung uong Quan doi 108 - Tran Hung Dao
+23	Tram trung chuyen xe buyt Tran Khanh Du
+24	Doi dien 105 Dang Tien Dong
+25	Dai hoc Cong Doan
+26	Tram xu ly nuoc thai Kim Lien
+27	114+115 E8 Phuong Mai
+28	116-C2 Luong Dinh Cua
+29	170-172 Le Thanh Nghi
+30	Vien Tin hoc Phap ngu
+31	10 Hoa Lu
+32	Diem do xe buyt 32 Nguyen Cong Tru
+33	Doi dien Vincom Tower
+34	18-20 Tue Tinh
+35	Ben xe Yen Nghia
+36	Nha cho Van La
+37	Nha cho Ba La
+38	Park City tuyen BRT khoang 30m - Le Trong Tan (Ha Dong)
+39	Nha cho La Khe
+40	Nha cho Cau La Khe
+41	Nha cho An Hung
+42	Nha cho Van Phu
+43	Nha cho Van Phuc
+44	Nha cho Van Khe
+45	Nha cho Van Phuc 2
+46	Nha cho Van Phuc 1
+47	Nha cho Mo Lao
+48	Nha cho Trung Yen
+49	Nha cho Khuat Duy Tien
+50	Nha cho Luong The Vinh
+51	Nha cho Nguyen Tuan
+52	Nha cho Hoang Dao Thuy
+53	Nha cho Vu Ngoc Phan
+54	Nha cho Thanh Cong
+55	Nha cho Giang Vo
+56	Nha cho Nui Truc
+57	Ben xe Kim Ma
+58	Cong vien Thong Nhat
+59	55 Quang Trung
+60	67 Tran Hung Dao
+61	80 Tran Nhat Duat
+62	Truong Tieu hoc Vo Thi Sau - 35 Tran Hung Dao
+63	Doi dien 6C Phan Chu Trinh
+64	Ngan hang Nha nuoc
+65	23 Hang Tre
+66	So 3 Hang Muoi
+67	Doi dien UBND phuong Phuc Dong - 274 Nguyen Van Linh
+68	Chua Ai Mo
+69	52 Ngoc Lam - Doc Cam
+70	170 Ngoc Lam
+71	Doi dien 447 Ngoc Lam
+72	654 Nguyen Van Cu
+73	Cay xang 84 Cau Chui - Nguyen Van Linh
+74	Doi dien Savico Megamall Long Bien - Nguyen Van Linh
+75	Doi dien Cong ty Nuoc sach - Nguyen Van Linh
+76	Hoc vien Nong nghiep Viet Nam
+77	234 Ngo Xuan Quang
+78	So 14 duong Hoc vien Nong nghiep
+79	Qua nga 3 Cau Thanh Tri
+80	Khu CN Sai Dong
+81	Duong vao duong Thach Ban
+82	Doi dien Cong ty May 10
+83	36 Ngo Xuan Quang
+84	Doi dien Buu dien Trau Quy
+85	80 Tran Hung Dao - Bo Giao thong Van tai
+86	Ga Ha Noi - 120 Le Duan
+87	Thu vien Ha Noi - 54E Tran Hung Dao
+88	Tran Nhat Duat (373 Hong Ha)
+89	40 Ngo Quyen
+90	Cung Thieu nhi Ha Noi
+91	54 Nguyen Huu Huan
+92	UBND phuong Phuc Dong - 274 Nguyen Van Linh
+93	Doi dien chua Ai Mo
+94	171-173 Ngoc Lam (Cong an phuong Ngoc Lam)
+95	Ben xe Gia Lam
+96	583 Nguyen Van Cu
+97	549 Nguyen Van Cu (Cot sau)
+98	He truoc Savico Megamall - Nguyen Van Linh
+99	105-107 Nguyen Van Linh
+100	MediaMart Long Bien - Nguyen Van Linh
+101	Cong ty Tu van dich vu Khoa hoc Nong nghiep - Ngo Xuan Quang
+102	255 - 257 Ngo Xuan Quang
+103	Qua nga 3 cau Thanh Tri - Nguyen Van Linh
+104	Gan nga ba Cau Thanh Tri - Nguyen Van Linh
+105	Cong ty Thi nghiem Mien Bac - 465 Nguyen Van Linh
+106	705 Nguyen Van Linh
+107	Cong ty May 10
+108	139 Ngo Xuan Quang
+109	Buu dien Trau Quy
+110	Benh vien Noi tiet Trung uong co so 2
+111	Qua Doi Dien Cong Ty Co Phan Dien Cong Nghiep Ha Noi 30M
+112	Toa nha No 3
+113	Nha No9 KDT Phap Van
+114	Doi dien Tap the Ben xe Nuoc ngam Ha Noi
+115	Qua loi re Khu hanh chinh quan Hoang Mai
+116	Doi dien Cong vien Yen So
+117	46-48 Yen So
+118	So nha 43 to 14 phuong Yen So
+119	Doi dien 123 Linh Nam - Thon Tan Khai
+120	Doi dien 271 Linh Nam
+121	Truong THPT Hoang Van Thu
+122	Chua Khuyen Luong
+123	376-378 Linh Nam
+124	582 Linh Nam
+125	Dinh Nam Du Ha
+126	18 Tam Trinh
+127	20 Linh Nam
+128	344 Kim Nguu
+129	Tap the E6 Quynh Mai
+130	86 Kim Nguu
+131	48B Tang Bat Ho
+132	Doi dien Dai hoc Duoc Ha Noi - 15 Le Thanh Tong
+133	E3.4 Diem trung chuyen Long Bien
+134	Diem do xe buyt Long Bien
+135	Doi dien nha No9 KDT Phap Van
+136	Cong vien Khu do thi Tu Hiep Phap Van
+137	Cong ty Co phan Dien cong nghiep Ha Noi
+138	Ben xe Nuoc Ngam
+139	Cong vien Yen So
+140	Duong vao Khu do thi Gamuda
+141	Khu tai dinh cu X2A
+142	So nha 15 to 15 phuong Yen So
+143	Cong ty CP Det CN Ha Noi - 93 Linh Nam
+144	Doanh trai Quan doi - 393 Linh Nam
+145	Truong Mam non Tran Phu
+146	Cho Long Thuyen - 471 Linh Nam
+147	Truoc Nha may nuoc Dong Du
+148	595 Linh Nam
+149	89 Tam Trinh
+150	Doi dien 72 Linh Nam
+151	Doi dien 346 Kim Nguu
+152	Doi dien 98 Kim Nguu
+153	Doi dien Tap the E6 Quynh Mai
+154	131 Lo Duc
+155	61 Phan Chu Trinh
+156	77 Lo Duc
+157	E1.1 Diem trung chuyen Long Bien
+158	Ho Ngoc Khanh
+159	Diem trung chuyen Cau Giay - Thu Le 02
+160	Cong vien Thu Le
+161	Truong Quoc te Ha Noi - 48 Lieu Giai
+162	202 Duong Buoi
+163	22 Lieu Giai
+164	285 Doi Can
+165	195B Doi Can
+166	6-8 Trang Thi
+167	Cot co Ha Noi
+168	18A Le Hong Phong
+169	47 Doi Can
+170	12A Dien Bien Phu
+171	Benh vien Viet Duc
+172	Nga 3 Le Thai To
+173	Bo Ho
+174	Gan ngo 378 Duong Buoi
+175	66-68 Duong Buoi
+176	Cau vuot di bo Vo Chi Cong
+177	Doi Dien Nha Hang Ngoc Duoc 3 - Vo Chi Cong
+178	41 Vo Chi Cong
+179	Doi dien Benh vien Tim Ha Noi co so 2
+180	Khu lien co quan So nganh Ha Noi
+181	Doi dien Cong vien Thu Le
+182	Diem trung chuyen Cau Giay - GTVT 01
+183	593-595 Kim Ma
+184	Dai su quan Nhat Ban - 27 Lieu Giai
+185	Doi dien 198 Duong Buoi
+186	Vien Khoa hoc xa hoi Viet Nam - so 1 Lieu Giai
+187	73 Van Cao - Doi dien Cung the thao Quan Ngua
+188	49 Hai Ba Trung
+189	37 Hai Ba Trung
+190	Buu dien Thanh pho Ha Noi
+191	1B Le Hong Phong
+192	174-176 Ngoc Ha
+193	91-93 Le Hong Phong
+194	7 Dien Bien Phu
+195	Doi dien 528 Duong Buoi
+196	Cau vuot di bo Vo Chi Cong
+197	239-241 Hoang Hoa Tham
+198	Truong THCS Ba Dinh - 145 Hoang Hoa Tham
+199	Nha Hang Ngoc Duoc 3 - Vo Chi Cong
+200	Doi dien 41 Vo Chi Cong
+201	Benh vien Tim Ha Noi co so 2
+202	Khu 4 Block chung cu duong Quang Lai
+203	Diem do xe buyt Ngu Hiep
+204	Cty CP Vinafut - Duong Tran Thu Do
+205	Doi dien Nha thi dau Thanh Tri
+206	Truoc Loi Vao NVH Z179 30M Duong Quang Lai
+207	Doi dien Nha van hoa Thanh Tri
+208	Qua cau Tran Thu Do
+209	Doi dien 1251 Giai Phong
+210	Ga Giap Bat
+211	Doi dien Ben xe Giap Bat
+212	79 Kim Dong
+213	468 Truong Dinh
+214	101 Nguyen An Ninh
+215	15 Nguyen An Ninh
+216	144-146 Pho Vong
+217	Benh vien Da lieu Trung uong
+218	39 Dong Tac
+219	3C5 Luong Dinh Cua
+220	Ho Nam Dong
+221	Trung tam Van hoa-The thao quan Dong Da
+222	Benh vien Bach Mai
+223	109 O Cho Dua
+224	Hoc vien Am nhac Quoc gia Viet Nam
+225	253 Xa Dan
+226	165 Xa Dan
+227	Doi dien 116 Hao Nam
+228	Khu 4 Block chung cu duong Quang Lai
+229	D.D Cty CP Vinafut - Duong Tran Thu Do
+230	Truoc D.D Loi Vao NVH Z179 30M Duong Quang Lai
+231	Nha thi dau Thanh Tri
+232	Nha van hoa Thanh Tri
+233	Gan cau Tran Thu Do
+234	Doi dien Tru so Cong an Phuong Hoang Liet
+235	Dai do so 2 Ben xe Giap Bat
+236	So 36 Kim Dong
+237	Trung tam thuong mai Truong Dinh
+238	22 Nguyen An Ninh
+239	134 Nguyen An Ninh
+240	191 Pho Vong
+241	101 Dang Van Ngu
+242	Khu Ngoai giao doan Trung Tu
+243	175-177 Giai Phong
+244	Qua diem quay dau 100m ve phia Hoang Cau
+245	Doi dien Hoc vien Am nhac Quoc gia Viet Nam
+246	398 Xa Dan
+247	490 Xa Dan
+248	188 Hao Nam
+249	Doi dien Tram cap nuoc Linh Dam (doi dien chung cu HH1C)
+250	Cong vien Bac Linh Dam
+251	Doi dien cong phu Benh vien da khoa y hoc co truyen
+252	Diem xen he (Toa nha CT2 - KDT Bac Linh Dam)
+253	Doi dien 32 Kim Giang
+254	Doi dien 222 Kim Giang
+255	Doi dien Truong Tieu hoc
+256	Nha NO. 7B KDT Linh Dam
+257	Nha NO. 1A KDT Linh Dam
+258	54 Mac Thai Tong
+259	Toa nha PT2 - Khu do thi Phu My
+260	Toa nha Sun Square
+261	202 Ho Tung Mau
+262	Doi dien Don nguyen 2 Ky tuc xa My Dinh
+263	Toa nha F15 - Trung Kinh
+264	Truoc truong THCS Yen Hoa 30m
+265	Doi dien Vien Huyet hoc Truyen mau Trung uong
+266	Truoc Cong ty Co phan Song Da 9
+267	San bong Dong Bong
+268	Truong Dai hoc FPT
+269	Dai hoc Tai nguyen va Moi truong
+270	Ga Phu Dien
+271	Diem do xe buyt Phu Dien (Trai Ga)
+272	Doi dien Cong lang Phu Dien
+273	Doi dien 272 Khuong Dinh
+274	Doi dien 134 Khuong Dinh
+275	Nha HH2A khu do thi Linh Dam
+276	Diem xen he (Cua hang xang dau so 75)
+277	Cach cong BV da khoa y hoc co truyen 50m
+278	42 Kim Giang
+279	214 Kim Giang
+280	292 Kim Giang
+281	Doi dien Truong THPT chuyen Ha Noi
+282	Doi dien Nha N2A KDT Trung Hoa Nhan Chinh
+283	Qua cong chinh nghia trang Quan Den - Nguyen Tuan
+284	Doi dien truong THPT Nguyen Binh Khiem
+285	Cong ty Co phan Xay lap Buu dien
+286	Doi dien Toa nha Sun Square
+287	Doi dien Toa nha PT2 - Khu do thi Phu My
+288	Tru so Quan uy Nam Tu Liem
+289	Don nguyen 2 Ky tuc xa My Dinh
+290	O D27 Pham Van Bach
+291	Dai hoc Phuong Dong
+292	Doi dien truong THCS Yen Hoa
+293	Nga 4 Nguyen Hoang - Pham Hung
+294	Bo Noi Vu, Bo Tai Nguyen Moi Truong
+295	Doi dien Ga Phu Dien
+296	Cong truong Dai hoc Tai nguyen va Moi truong
+297	Cong lang Phu Dien
+298	Truoc so 277 Nguyen Trai
+299	386 Nguyen Trai - Cuc So huu tri tue
+300	254 - 256 Khuong Dinh
+301	Vien Khoa hoc Hinh Su - 99 Nguyen Tuan
+302	Cong ty thuoc la Thang Long
+303	Doi dien 81 - 83 Khuong Dinh
+304	196 Thai Thinh
+305	122 Thai Thinh
+306	105E5 Thai Thinh
+307	Sieu Thi Bep 365
+308	Dai hoc Kinh te Quoc dan
+309	106 Tran Dai Nghia
+310	60 Le Thanh Nghi
+311	Chung cu A3B (so 92) Thanh Nhan
+312	Ngo 71 Lang Ha
+313	He giua nha so 23-25 Lang Ha
+314	Nha sach Tri Tue - 187G Giang Vo
+315	He gan ngo 173 Giang Vo
+316	145 Nguyen Thai Hoc
+317	Toa nha PTA - So 1 Kim Ma
+318	85 Nguyen Thai Hoc
+319	Doi dien 34A Tran Phu
+320	167 Phung Hung
+321	115 Phung Hung
+322	Doi dien 16 Phung Hung
+323	Ho Thanh Nhan
+324	94 Vo Thi Sau
+325	Dai hoc Thuy Loi - 175 Tay Son (cot truoc)
+326	Benh vien Cham cuu Trung uong
+327	104 A49 Thai Thinh
+328	251 Chua Boc
+329	Cho Mo
+330	49E Chua Boc
+331	95 Le Thanh Nghi
+332	327 Bach Mai
+333	263 Thanh Nhan
+334	Nga 3 Dang Tien Dong - Hoang Cau
+335	Ho Hoang Cau
+336	Doi dien 251 Giang Vo
+337	339-341 De La Thanh
+338	Bo Y Te
+339	Doi dien 15 Tran Phu
+340	So 4 Ly Nam De
+341	Doi dien 65 Ly Nam De
+342	Doi dien 46 Vo Thi Sau
+343	Cong vien Tuoi tre
+344	Ngan hang Cong thuong khu vuc Hai Ba Trung
+345	Doanh trai Quan doi nhan dan
+346	9 Tran Thanh Tong
+347	Dai hoc Khoa hoc tu nhien
+348	10-12 Quan Thanh
+349	E1.3 Diem trung chuyen Long Bien
+350	Diem do xe buyt Mai Dong
+351	441 Tam Trinh
+352	Diem do xe buyt San van dong Quoc gia
+353	Cung dien kinh My Dinh
+354	Nha CT2B Khu do thi My Dinh
+355	Doi dien DH Thuong Mai - 6 Ho Tung Mau (cot sau)
+356	Doi dien Dai truyen hinh Cong an nhan dan
+357	Gan nha sach Su pham (Dai hoc Su pham Ha Noi)
+358	So 148-150 Cau Giay
+359	370 Cau Giay
+360	Hoc vien Bao chi va Tuyen truyen
+361	250-252 Cau Giay
+362	176 Thai Ha
+363	54-56 Thai Ha
+364	Cong Parabol Dai hoc Bach khoa (cot truoc)
+365	Doi dien Dai Truyen hinh Ha Noi
+366	20 Huynh Thuc Khang
+367	73 Nguyen Chi Thanh
+368	89 Nguyen Chi Thanh
+369	Rap chieu phim Quoc Gia
+370	Ngo 1072 De La Thanh
+371	251-253 Tam Trinh
+372	Benh vien Thanh Nhan
+373	Doi dien 303 Tam Trinh
+374	Doi dien 411 Tam Trinh
+375	Trung tam Huan luyen va Thi dau The duc the thao
+376	Doi dien Nha CT2B Khu do thi My Dinh
+377	Dai hoc Thuong Mai - Ho Tung Mau (cot sau)
+378	Doi dien Trung uong Hoi Ke hoach hoa gia dinh Viet Nam
+379	So 9 Ho Tung Mau
+380	So 197-199 Xuan Thuy
+381	165 Cau Giay
+382	So 79 Xuan Thuy
+383	331 Cau Giay
+384	3 Thai Ha
+385	Sieu thi Uni mart
+386	So 7 Dao Duy Anh
+387	B10 Kim Lien
+388	Dai hoc Bach Khoa
+389	San van dong Bach Khoa
+390	7 Huynh Thuc Khang
+391	57A Huynh Thuc Khang
+392	Doi dien Dai hoc Luat Ha Noi
+393	Tram bien ap F3 Thanh Cong
+394	161-163 Thai Ha
+395	Diem trung chuyen Cau Giay - GTVT 02
+396	989-991 De La Thanh
+397	Doi dien Benh vien Thanh Nhan
+398	Ben xe Giap Bat
+399	Doi dien truong THCS Tan Mai
+400	Doi dien cong vien ho Den Lu
+401	Cho Dau moi phia Nam
+402	Cong benh vien Quan y 108 - Doi dien 2E Tran Hung Dao
+403	Doi dien khu tap the 15C Tran Khanh Du
+404	Doi dien 198 Tran Quang Khai
+405	Tong cuc Hai Quan -162 Nguyen Van Cu (cot truoc)
+406	358-360 Nguyen Van Cu
+407	436-438 Nguyen Van Cu
+408	18-20 Ngo Gia Tu
+409	170-172 Ngo Gia Tu
+410	Duc Giang - Tuyen 42
+411	Doi dien 59 Duc Giang - TCT Duc Giang
+412	Cong vien ho Den Lu
+413	Cho Dau moi (gan cau Den Lu)
+414	Vuon hoa Tran Quang Khai
+415	162 Tran Quang Khai
+416	135 Nguyen Van Cu
+417	307 Nguyen Van Cu
+418	549 Nguyen Van Cu (Cot truoc)
+419	Buu cuc Long Bien - 79 Ngo Gia Tu
+420	285 Ngo Gia Tu
+421	59 Duc Giang (Cong ty May Duc Giang)
+422	Doi dien Nha N2E KDT Trung Hoa Nhan Chinh
+423	Nha CT5 KDT Song Da My Dinh
+424	Qua truong Tieu hoc Nam Trung Yen 100m
+425	Gan nga 4 Pham Hung-Dinh Thon (cot truoc)
+426	Nha B6C
+427	57 Vu Trong Phung
+428	Nga 3 Kim Giang
+429	San van dong Thuong Dinh
+430	21T2 Vu Trong Phung
+431	Truong THPT Nhan Chinh
+432	65 Dai Co Viet
+433	352 Giai Phong
+434	Doi dien 807 Giai Phong
+435	Doi dien Ben xe khach My Dinh (cot truoc)
+436	Cau Yen Hoa - Doi dien 1166 duong Lang
+437	Doi dien 1014 Duong Lang
+438	Doi dien Benh vien da khoa y hoc co truyen
+439	Doi dien 608 duong Lang
+440	Doi dien cho Lang Ha B
+441	Doi dien 498 Duong Lang
+442	Flatfom danh rieng cho xe buyt truoc nha 45 Duong Lang
+443	Doi dien 220 Duong Lang
+444	223-225 Truong Chinh
+445	Doi dien 196 Truong Chinh
+446	83A Truong Chinh
+447	196 Giai Phong
+448	Doi dien 794 duong Lang
+449	Toyota Giai Phong
+450	1014 Duong Lang
+451	Doi dien Buu cuc Thang Long
+452	Benh vien da khoa y hoc co truyen
+453	1178 Duong Lang
+454	Cho Lang Ha A
+455	470 Duong Lang
+456	Flatfom danh rieng cho xe buyt truoc nha 80 Duong Lang
+457	220 duong Lang
+458	604 Truong Chinh
+459	Doi dien Bao tang Phong khong Khong quan
+460	86 Truong Chinh
+461	337 Pho Vong
+462	649 Giai Phong
+463	794 Duong Lang
+464	Doi dien dai tuong niem chu tich HCM
+465	Gan duong vao KDT Dai Kim
+466	Qua 130m Doanh trai Bo chi huy quan su HN
+467	Nga 4 Pham Hung-Khuat Duy Tien
+468	220 Tran Duy Hung
+469	Doi dien Bo Khoa hoc va Cong nghe
+470	Toa nha Landmark 72 - duong Pham Hung
+471	DH Su pham Ngoai ngu
+472	36A Pham Van Dong
+473	527 Pham Van Dong
+474	Qua 70m duong vao cong vien Hoa Binh
+475	373 Pham Van Dong
+476	113 Pham Van Dong
+477	Nha 24T2 KDT Trung Hoa Nhan Chinh - Hoang Dao Thuy
+478	Qua nga 3 Hai Boi-Vinh Ngoc 300m
+479	Benh vien nhiet doi TW CS2
+480	Khu nha D6 va D3 - duong noi bo chung cu Kim Chung
+481	Doi dien cong Khu cong nghiep Bac Thang Long
+482	Dai hoc Mo
+483	Truong Cao dang Tai nguyen va Moi truong Ha Noi
+484	Duong vao Cong ty Co phan Co dien Ha Noi
+485	Doi dien Cua hang Bao duong sua chua xe may Nam Hai
+486	Doi dien dinh lang Lien Ngac
+487	Doi dien truong Tieu hoc Dong Ngac A
+488	Cach doi dien Dinh Nhat Tao 100m
+489	Doi dien lang Thuong Thuy
+490	B13 Ky tuc xa Bach Khoa
+491	319 Pho Hue
+492	149 Pho Hue
+493	25A-25B Pho Hue
+494	25 Ly Thuong Kiet
+495	Qua nut giao Hang Than
+496	Truoc nut giao Cua Bac 30m
+497	Truoc duong vao bai An Duong
+498	152-154 Nghi Tam
+499	284 Nghi Tam
+500	Cho do cu Quang An
+501	136 Au Co
+502	236 Au Co
+503	286 Au Co
+504	Doi dien 415 Au Co
+505	Doi dien loi vao UBND phuong Phu Thuong
+506	Doi dien 327 An Duong Vuong
+507	Doi dien 197 An Duong Vuong
+508	Doi dien 513 Au Co
+509	So 8 An Duong Vuong
+510	Doi dien truong THCS Dong Ngac A
+511	Doi dien Hoc vien Tai chinh
+512	Doi dien Cong ty Co phan Co dien Ha Noi
+513	Nga ba Nha may be tong Chem
+514	Dinh lang Lien Ngac
+515	Truong Tieu hoc Dong Ngac A
+516	Qua Dinh Nhat Tao 100m
+517	Lang Thuong Thuy
+518	Doi dien B13 Ky tuc xa Bach Khoa
+519	180-182 Ba Trieu
+520	92-94 Ba Trieu
+521	24A Ba Trieu
+522	58B Ba Trieu
+523	22C Hang Luoc
+524	56 Hang Can
+525	Truoc nut giao Hang Than
+526	Qua nut giao Cua Bac 120m
+527	E3.1 Diem trung chuyen Long Bien
+528	Truong Mac Dinh Chi
+529	197 Nghi Tam
+530	115-117 Nghi Tam
+531	215 Au Co
+532	33 Au Co
+533	251-253 Au Co
+534	325 Au Co
+535	Dinh Nhat Tan
+536	327-329 An Duong Vuong
+537	Loi re vao UBND phuong Phu Thuong
+538	197 An Duong Vuong
+539	523 Au Co
+540	Doi dien ngo 58 An Duong Vuong
+541	Nga ba doc Ke Chem
+542	Truong PTTH Viet Nam Balan (Doi dien Khach san Nam Thanh)
+543	Doi dien Ao sen Lang Dai Tu
+544	Doi dien duong vao KDT Dai Kim
+545	Bao tang Ha Noi
+546	Nga 4 Pham Hung - Khuat Duy Tien (Trung tam Hoi nghi Quoc Gia)
+547	Doi dien 220 Tran Duy Hung
+548	Nha N2E KDT Trung Hoa Nhan Chinh
+549	113 Tran Duy Hung
+550	Nha CT5-D KDT My Dinh
+551	Gan nga 4 Pham Hung - Dinh Thon (cot sau)
+552	So 9 Pham Van Dong
+553	Doi dien 36A Pham Van Dong
+554	Sieu thi Metro Thang Long
+555	Truoc 100m ngo 218 Pham Van Dong
+556	Showroom o to Trung Son
+557	96 Pham Van Dong
+558	Doi dien nha 24T2 KDT Trung Hoa Nhan Chinh - Hoang Dao Thuy
+559	Doi dien khu nha D3 va D6 - duong noi bo chung cu Kim Chung
+560	Cong Khu cong nghiep Bac Thang Long
+561	Khu cong nghiep Bac Thang Long
+562	Doi dien Truong Cao dang Dien tu-Dien lanh Ha Noi
+563	Doi dien Hoc vien Chinh tri Quoc gia Ho Chi Minh
+564	655 Pham Van Dong
+565	122-124 Hoang Quoc Viet
+566	90 Hoang Quoc Viet
+567	Bao tang Dan toc hoc
+568	UBND phuong Co Nhue 1 - 601 Pham Van Dong
+569	Bai do xe buyt Cau Giay
+570	Qua nga tu Khu cong nghiep Thang Long
+571	Doi dien UBND xa Kim Chung
+572	Qua cau chui dan sinh so 4 - duong vao thon Nhue, Km 11+200
+573	Cau Van Tri
+574	Truoc 70m cau vuot Nga tu Nam Hong Cao toc BTL
+575	Cong ty Co khi Nam Hong - Km6+120
+576	Doi dien KCN Quang Minh (Melinh Palaza)
+577	Nha may tam lop VitMetal
+578	Soat ve cao toc Bac Thang Long
+579	Nga tu Cao toc Thang Long - Phuc Yen
+580	Qua 50m nga 3 vao thon Dien Xa
+581	San Bay Noi Bai (Bai do xe nha ga T1)
+582	Doi dien nha ga T2 san bay Noi Bai
+583	Doi dien nha ga T1 san bay Noi Bai
+584	Bo Cong an
+585	Hoc vien Chinh tri Quoc gia Ho Chi Minh
+586	Truong Cao dang Su pham Trung uong
+587	Cong vien Nghia Do - So 64 Nguyen Van Huyen
+588	247-249 Hoang Quoc Viet
+589	370 Pham Van Dong
+590	Sieu thi Metro Thang Long
+591	UBND xa Kim Chung
+592	Truoc nga tu khu CN Thang Long 100m
+593	Qua cau chui dan sinh so 4 - doi dien duong vao thon Nhue, Km 11+200
+594	Dam Van Tri
+595	Qua cau vuot nga 4 Nam Hong 70m Cao toc BTL
+596	Doi dien Cong ty co khi Nam Hong
+597	KCN Quang Minh
+598	Doi dien nha may tam lop VitMetal
+599	Soat ve cao toc Bac Thang Long
+600	Qua nga tu cao toc Thang Long - Phuc Yen
+601	Qua 50m doi dien nga 3 vao thon Dien Xa
+602	Nissan Ha Dong
+603	Doi dien Truong TH Kinh te Ha Tay
+604	530-532 Quang Trung
+605	678-680 Quang Trung
+606	350 - 352 Quang Trung - Ga La Khe
+607	Giua so 428-430 Quang Trung
+608	Nha thi dau Ha Dong
+609	80 Quang Trung
+610	So 8 Quang Trung
+611	Khach san Song Nhue (148 Tran Phu- Ha Dong)
+612	Hoc vien cong nghe buu chinh vien thong - Tran Phu (Ha Dong)
+613	106B-106C Tran Phu
+614	So 10 Tran Phu - Sieu Thi Viet Long
+615	Cong ty CP Cong trinh GT 873 - Nguyen Trai
+616	204-206 Nguyen Trai (Gan nga 3 Nguyen Trai - Luong The Vinh )
+617	Bach hoa Thanh Xuan - duong Nguyen Trai
+618	Go Dong Da
+619	142-144 Nguyen Luong Bang
+620	274-276 Kham Thien
+621	78-80A Kham Thien
+622	Tong cong ty Duong sat Viet Nam
+623	Doi dien thap Ha Noi
+624	Benh vien Phu san TW
+625	28 Duong Thanh
+626	50 Hang Cot
+627	69 Dai La
+628	Cho Mo
+629	199 Minh Khai
+630	161 Minh Khai
+631	259 Minh Khai
+632	423 Minh Khai
+633	539-541 Minh Khai
+634	Ngo 18 Nguyen Khoai
+635	202-204 Nguyen Khoai
+636	Doi dien K9 Bo doi Bien phong
+637	Vien Quy hoach Thuy loi
+638	E3.2 Diem trung chuyen Long Bien
+639	197 Dai La
+640	32 Minh Khai
+641	218-220 Minh Khai
+642	388 Minh Khai
+643	308 Minh Khai
+644	690-692 Minh Khai
+645	Vien Kinh te va Ky thuat Det may
+646	Doi dien Sun Plaza
+647	287 Nguyen Khoai
+648	K9 Bo doi Bien phong
+649	Doi dien 162 Tran Quang Khai
+650	Truong trung cap Kinh te - Tai chinh Ha Noi
+651	Ga Van Khe
+652	807 Quang Trung
+653	707-709 Quang Trung, Ha Dong
+654	Ga La Khe
+655	Doi dien duong vao cho La Khe (Qua Ga metro La Khe) - 405 Quang Trung (Ha Dong)
+656	267 Quang Trung
+657	85 Quang Trung (Ha Dong)
+658	Doi dien Buu Dien Ha Dong
+659	Lien minh cac HTX Ha Noi - So 1 Tran Phu (Ha Dong)
+660	Sieu thi Nguyen Kim - Km10 Nguyen Trai (Ha Dong)
+661	Dai hoc Kien Truc - Tran Phu (Ha Dong)
+662	Hoc vien An ninh nhan dan - Tran Phu (Ha Dong )
+663	Ga Phung Khoang - 77 Tran Phu
+664	Truoc so nha 521A - 521C Nguyen Trai
+665	Tong Cong ty xay dung Song Da - 493 Nguyen Trai
+666	477 Nguyen Trai - Hoc vien Khoa hoc Xa hoi
+667	Ga Thuong Dinh
+668	221A-221B Kham Thien
+669	83 Nguyen Luong Bang
+670	Dai tuong niem Kham Thien
+671	Cung VH Huu Nghi Viet Xo
+672	65 Quan Su
+673	Benh vien Viet Duc
+674	276 Ton Duc Thang
+675	160 Ton Duc Thang
+676	22B Hai Ba Trung
+677	48 Hai Ba Trung
+678	92-94 Ton Duc Thang
+679	Benh vien Xanhpon
+680	Cong vien Le Nin
+681	He canh vuon hoa 19-8, duong Hai Ba Trung
+682	Bac Co (Tran Khanh Du)
+683	283 Ton Duc Thang
+684	Tram Bien ap Hang Bot 1 - 107 Ton Duc Thang
+685	Doi dien so 40 Ton Duc Thang
+686	7 Nguyen Thai Hoc
+687	Doi dien 16 Hai Ba Trung
+688	So 45 - Ngo 2 Dinh Cong Thuong
+689	Chung cu Dai Kim
+690	So 573 Vu Tong Phan
+691	Doi dien Trung tam cham soc khach hang Dien luc mien Bac
+692	He truoc tuong dai Liet si phuong Hoang Liet 30m
+693	UBND phuong Hoang Liet
+694	72 Dang Xuan Bang
+695	Nga 4 Giai Phong-Hoang Liet
+696	My Dinh (San van dong Quoc gia My Dinh)
+697	Doi dien duong vao Truong CD nghe Tran Hung Dao
+698	San bong Nhan My
+699	Doi dien THCS-THPT Tran Quoc Tuan
+700	Doi dien 16 Duong Dinh Nghe
+701	Doi dien Mam non Chich Bong
+702	Ngo 6 Duong Dinh Nghe
+703	Trung tam Luu tru Quoc gia 1 - 18 Vu Pham Ham
+704	So 5 Lo 4C - Vu Pham Ham
+705	375 Vu Tong Phan
+706	283 Vu Tong Phan
+707	71 Vu Tong Phan
+708	Doi dien 221 Nguyen Khang
+709	Doi dien 139 Nguyen Ngoc Vu
+710	Doi dien 63 Giap Nhat
+711	Doi dien 227 Giap Nhat
+712	Doi dien 83 Nguyen Khang
+713	Doi dien Chung cu Dai Kim
+714	Doi dien 33 - Ngo 2 Dinh Cong Thuong
+715	Doi dien 581 Vu Tong Phan
+716	Trung tam cham soc khach hang Dien luc mien Bac
+717	Qua cho Xanh Linh Dam 50m
+718	Doi dien qua tuong dai Liet si phuong Hoang Liet 30m
+719	Bai do xe khu Do thi Linh Dam
+720	71 Dang Xuan Bang
+721	Duong vao Truong CD nghe Tran Hung Dao
+722	Doi dien THCS-THPT Tran Quoc Tuan
+723	Doi dien san bong Nhan My
+724	So 16 Duong Dinh Nghe
+725	15 Thien Hien
+726	Nha 5-9 lo 18 KDT Trung Hoa
+727	Toa nha G3D Vu Pham Ham
+728	Tuong rao Tong Cuc Hai Quan
+729	Doi dien 381 Vu Tong Phan
+730	Doi dien 291 Vu Tong Phan
+731	Doi dien 41 Vu Tong Phan
+732	225 Nguyen Khang
+733	Ngo 141 Nguyen Ngoc Vu
+734	So nha 225 duong Giap Nhat
+735	So nha 21 duong Giap Nhat
+736	81B Nguyen Khang
+737	KDT Duong Noi
+738	Nghia trang La Khe - Duong Yen Lo
+739	Qua 100m cau La Khe
+740	Nha cho gan Nam Cuong Building
+741	Nha cho gan duong vao KDT An Hung
+742	Diem xen he qua nga 4 Van Phuc
+743	Diem xen he gan duong vao KDT Duong Noi
+744	Chua Van Phuc
+745	So 170 - 172 Van Phuc
+746	So 2 Chu Van An
+747	Cau Cong
+748	Doi dien khan dai A (Trung tam thi dau va huan luyen the thao CAND)
+749	Truoc nga 3 Nguyen Xien
+750	Diem xen he ham duong bo so 4 - Nguyen Xien
+751	Truong Dai hoc Thang Long
+752	Diem xen he ham duong bo (Vien Cong nghe thuc pham TW)
+753	Gan duong vao trai tam giam - Cau Buou
+754	Doi dien Trung tam Van hoa Thong tin Tinh Ha Tay - Phung Hung (Ha Dong)
+755	70 Phung Hung (Ha Dong)
+756	Vien 103 - Phung Hung (Ha Dong)
+757	Cong thon Yen Xa - 89 Cau Buou
+758	Khu do thi Mo Lao
+759	Ga Van Quan
+760	Doi dien Cong ty XNK Lam nong san so 1 Sai Gon
+761	Truoc nha CT8B chung cu Dai Thanh
+762	Doi dien Trung tam XNK Xay dung Vimeco
+763	Doi dien UBND Xa Thanh Liet
+764	So 5 TT1A Tay Nam Linh Dam
+765	Nha CT4B X2 Bac Linh Dam
+766	Doi dien 110 Ho Den Lu
+767	O 72 lo 5 Den Lu 2
+768	Doi dien so 327 to 45 duong Hoang Mai
+769	Toa nha Nam Hai Lakeview
+770	Cong ty Duc Nhat
+771	Doi dien chua Phuc Khanh (pho Vinh Hung)
+772	298-300 Vinh Hung
+773	Doi dien Dai hoc Kinh doanh va Cong nghe
+774	Doi dien 367 Vinh Hung
+775	AEON Mall Long Bien
+776	Cong sau AEON Mall Long Bien
+777	Trung tam Van hoa Thong tin - Phung Hung (Ha Dong)
+778	Cong ty CP Xay lap dien Ha Tay - 113 Phung Hung (Ha Dong)
+779	Doi dien Toa nha CT2 Chung cu vien bong, gan nga ba Yen Xa - Phung Hung (Ha Dong)
+780	Doi dien Cong ty TNHH Thuong mai Da Lat
+781	Ga Van Quan - 149 Tran Phu
+782	30 Cau Buou
+783	12 Cau Buou
+784	Trung tam XNK Xay dung Vimeco
+785	Qua 15m doi dien ngo 15 Bang Liet
+786	Nha van hoa xa Thanh Liet
+787	Nha CT3C X2 Bac Linh Dam
+788	Truong THCS Tan Mai
+789	130 Den Lu 2
+790	124 Ho Den Lu
+791	Doi dien lo 5 Den Lu 1
+792	Doi dien Cong ty TNHH Tu Anh
+793	Doi dien toa nha Nam Hai Lakeview
+794	303 Vinh Hung
+795	193 Vinh Hung
+796	Ngo 321 Vinh Hung
+797	Qua duong dan len cau Vinh Tuy
+798	Dai hoc Kinh doanh va Cong nghe Ha Noi
+799	Nha cho doi dien cong The Sparks Nam Cuong - duong truc Bac Ha Dong
+800	Doi dien nghia trang La Khe - duong Yen Lo
+801	350 To Huu
+802	Doi dien duong vao KDT An Hung
+803	Doi dien Nam Cuong Building
+804	Diem xen he gan duong vao KDT Duong Noi
+805	So 63 Van Phuc (Ha Dong)
+806	Truoc nga 4 Van Phuc
+807	So 51 Van Phuc (Ha Dong)
+808	Nha van hoa Cong doan Ha Noi
+809	Diem xen he ham duong bo (Trung tam huan luyen va thi dau the thao CAND)
+810	Diem xen he ham duong bo so 3 - Nghiem Xuan Yem
+811	Cong ty CP Thien Phu (So 2 Khu tap the Cao su sao vang)
+812	Doi dien truong Dai hoc Thang Long
+813	Diem xen he ham duong bo
+814	Khu do thi Phap Van Tu Hiep
+815	Cong ty bien the ABB
+816	Doi dien tap the 810 Ngo 83
+817	771 - 773 Nguyen Hoang Ton
+818	Tap the Phao Binh 563 - 565 Nguyen Hoang Ton
+819	393 Nguyen Hoang Ton
+820	Doi dien 40 Nguyen Hoang Ton
+821	So 442-444 Lac Long Quan
+822	CV Nuoc Ho Tay
+823	Tram bien ap Phap Van 6
+824	Doi dien 721 - 723 Nguyen Hoang Ton
+825	333-335 Nguyen Hoang Ton
+826	Doi dien tap the Phao Binh
+827	Qua 50m ngo 677 Lac Long Quan
+828	Cong vao KDT Ciputra
+829	Dai Ang
+830	Dai ly thuoc tan duoc thon Vinh Thinh
+831	Cong lang Vinh Trung
+832	Qua loi vao Chua Thanh Duong 100m
+833	Truoc nga 3 Lac Thi 200m
+834	Qua Cho Lac Thi 200m
+835	Doi dien truong THCS Ngoc Hoi
+836	Vien nghien cuu trong va phat trien cay thuoc
+837	Chua Ngoc Hoi
+838	Gan nga 3 duong Quynh Do
+839	Qua Cong ty CP Van tai va Dich vu TS 15m
+840	Qua Khu tap the LICOLA 100m
+841	Doi dien Tru so HDND huyen Thanh Tri
+842	Qua nga 3 Ngoc Hoi
+843	Doi dien TCT co dien nong nghiep va Thuy loi (Van Dien)
+844	Qua duong vao Benh vien da khoa Thang Long 60m
+845	Cong vien Dinh Cong
+846	Doi dien Cho xanh Dinh Cong
+847	Cong vien Nghia Do
+848	Nha cong vu QC PKKQ
+849	Doi dien sieu thi ACE Mart
+850	150 Le Trong Tan
+851	Truoc toa nha Artemis
+852	20 Ton That Tung
+853	So 9 Dao Tan
+854	15B1 Nguyen Khanh Toan
+855	He truoc doi dien so nha 26 - 28 Nguyen Khanh Toan
+856	Doi dien cong lang Vinh Trung
+857	Doi dien dai ly thuoc tan duoc thon Vinh Thinh
+858	Doi dien loi vao Chua Thanh Duong 100m
+859	Cach Cho Lac Thi 100m
+860	Qua nga 3 Lac Thi 150m
+861	Truong THCS Ngoc Hoi
+862	Doi dien Chua Ngoc Hoi
+863	Cong ty cong trinh giao thong 124 (Km 12 + 500 Quoc lo 1A)
+864	Qua nga 3 duong Quynh Do
+865	Cong ty 17 Lu doan 17 Binh doan 12 - Ngoc Hoi
+866	Doi dien Khu tap the LICOLA
+867	373 Ngoc Hoi
+868	449 - 451 Ngoc Hoi
+869	TCT co dien nong nghiep va Thuy loi (Van Dien)
+870	Doi dien 184 Ngoc Hoi
+871	Tram bien ap so 9 Dinh Cong
+872	Doi dien tram cap nuoc sach Dinh Cong
+873	Toa chung cu 96A Pho Dinh Cong
+874	Dai do so 3 Ben xe Giap Bat
+875	Kiot so 7 nha CT.6 - DN 2 Dinh Cong
+876	Doi dien 210 Le Trong Tan
+877	Doi dien 158 Le Trong Tan
+878	Canh hang rao Bao tang Khong Quan
+879	Dai hoc Y Ha Noi
+880	So nha 35 Nguyen Chi Thanh
+881	10 Dao Tan
+882	Qua nga 3 Nguyen Khanh Toan
+883	He truoc giua so nha 26 - 28 Nguyen Khanh Toan
+884	Qua 30m doi dien truong Mam non Van Canh
+885	Dai tuong niem Van Canh
+886	Doi dien truong THCS Van Canh
+887	Qua 30m cong lang An Trai
+888	Buu dien Van Canh
+889	Truoc nga 3 Xuan Phuong-Tran Huu Duc 100m
+890	Doi dien truong Dai hoc Cong nghe Dong A
+891	Truoc doi dien toa nha CT2A, KDT Xuan Phuong 30m
+892	Truoc cau vuot Xuan Phuong 100m
+893	Doi dien nha C6 KDT My Dinh I
+894	Doi dien nha CT5-DN1 KDT My Dinh 1
+895	Doi dien Chi cuc thi hanh an quan Cau Giay
+896	Doi dien truong THCS Cau Giay
+897	Truoc nha 29 Truong Cong Giai
+898	Qua ngo 38 Tran Quy Kien 30m
+899	171-173 Tran Dang Ninh
+900	B5 Lang quoc te Thang Long
+901	Doi dien truong THPT Hoai Duc A
+902	Qua nga tu Son Dong
+903	Cong ty dien luc huyen Hoai Duc
+904	Tram bien ap Di Trach 6
+905	Doi dien so 20 LK 39 KDT Van Canh
+906	Cong ty CP xay dung kinh doanh Tong hop Son Ha
+907	So 1 Luu Xa
+908	Truong THCS Duc Giang
+909	Ben xe Hoai Duc
+910	Doi dien truong THCS Nghia Tan
+911	Truoc Kiot 01 Hau Ai
+912	Doi dien cong lang An Trai
+913	Truong THCS Van Canh
+914	Doi dien dai tuong niem Van Canh
+915	Qua nga 3 Tran Huu Duc-Xuan Phuong 150m
+916	Doi dien Buu dien Van Canh
+917	Nha may Bia Sai Gon - Ha Noi
+918	Qua nha CT2A, KDT Xuan Phuong 30m
+919	Qua cau vuot Xuan Phuong 100m
+920	Nha CT5-DN1 KDT My Dinh 1
+921	Nha C6 KDT My Dinh I
+922	Qua ngo 86 Duy Tan 30m
+923	Chi cuc thi hanh an quan Cau Giay
+924	Qua truong THCS Cau Giay 50m
+925	Trung tam the duc the thao quan Cau Giay
+926	Truoc nha 20 Truong Cong Giai
+927	Truoc nga tu Son Dong 100m
+928	Truong THPT Hoai Duc A
+929	Truoc cong lang Van Hoa Dai Tu 50m
+930	Tuong rao Nha may A34
+931	Doi dien Tram bien ap 6 Di Trach
+932	Doi dien Cong ty CP xay dung kinh doanh tong hop Son Ha
+933	Doi dien truong THCS Duc Giang
+934	UBND huyen Hoai Duc
+935	Doi dien Buu dien Hoai Duc (Tri tran Troi)
+936	Truong THCS Nghia Tan
+937	79 Tran Thai Tong
+938	Qua nga 4 Duy Tan
+939	70 Tran Thai Tong
+940	119 Yen Lang
+941	Doi dien Hoc vien Quan he quoc te
+942	Doi dien THCS Lang Thuong
+943	Doi dien Trung tam giai tri Ngoi Sao Xanh (Ho Thien Quang)
+944	487 Giai Phong
+945	Cong Parabol Dai hoc Bach khoa (cot sau)
+946	Doi dien 394 Le Duan
+947	Doi dien 326 Le Duan
+948	13A Tran Hung Dao
+949	Tong cuc Hai Quan -162 Nguyen Van Cu (cot sau)
+950	Doi dien Cong Parabol Dai hoc Bach Khoa
+951	358-360 Le Duan
+952	254-256 Le Duan
+953	16 Tran Hung Dao
+954	32 Tran Hung Dao
+955	Dai do so 1 Ben xe Giap Bat
+956	San golf Long Bien
+957	Khu nha N01A khu do thi Sai Dong
+958	Doi dien truong Vinschool duong Chu Huy Man
+959	Vincom Long Bien
+960	Truoc nga ba Hoa Hong
+961	Cho Phuc Loi
+962	Truong THPT Phuc Loi
+963	Gan ngo 145 Phuc Loi
+964	Qua loi vao Dinh Chua Hoi Xa
+965	Ngo 1 duong Phuc Loi
+966	Truoc cua hang sua chua xe may Hung Phi 15m
+967	Truong Tieu hoc Giang Bien
+968	Diem do xe buyt Giang Bien
+969	118-120 Dai La
+970	Doi dien San golf Long Bien
+971	Truong Tieu hoc Phuc Dong
+972	Truong Vinschool duong Chu Huy Man
+973	Doi dien Vincom Long Bien
+974	Doi dien Cho Phuc Loi
+975	Doi dien truong THPT Phuc Loi
+976	Gan doi dien ngo 145 Phuc Loi
+977	Doi dien nga ba Hoa Hong
+978	Doi dien qua ngo 1 duong Phuc Loi
+979	Gan doi dien loi vao Dinh Chua Hoi Xa
+980	Doi dien truong Tieu hoc Giang Bien
+981	Qua doi dien cua hang sua chua xe may Hung Phi 30m
+982	Qua vong xuyen nga tu Tran Thai Tong
+983	Doi dien 89 Tran Thai Tong
+984	Doi dien 64 Tran Thai Tong
+985	Vien Cong nghe Xa hiem
+986	Dai hoc Thuy Loi - 175 Tay Son (cot sau)
+987	Truong THCS Lang Thuong
+988	85-87 Chua Lang
+989	29 Hang Bai
+990	He gan ham chui cho nguoi di bo qua duong khu vuc cau Mai Dich
+991	Toa nha Bac Ha
+992	Diem do xe buyt Nam Thang Long
+993	KTX Dai hoc Giao thong Van tai
+994	Diem do xe buyt Bat Trang
+995	Truoc nga 3 Xuan Quan - Bat Trang 30m (chieu di Bat Trang)
+996	Doi dien duong vao Don canh sat Da Ton
+997	Doi dien Diem Cu Khoi - Cong an phuong Cu Khoi
+998	Doi dien 299-301 Bo De
+999	Doi dien 21 Bo De
+1000	Doi dien 155 Bo De
+1001	Doi dien Diem Tu Dinh
+1002	Doi dien Chua Nghiem Quang
+1003	Doi dien chua Cu Linh - Nga 3 Thach Ban
+1004	Doi dien Diem thon Ngo
+1005	Cau Vinh Tuy - Doi dien Diem thon Nha
+1006	Doi dien Chua Sung Khanh Tu Dinh
+1007	Doi dien Diem thon Dong Du Ha
+1008	Doi dien Diem thon Dong Du Thuong - Cau Thanh Tri
+1009	Qua nga 3 Bat Trang - Xuan Quan 30m (chieu di Ha Noi)
+1010	Don canh sat Da Ton
+1011	Diem Cu Khoi
+1012	325 Bo De
+1013	159-161 Bo De
+1014	37 Bo De
+1015	Diem thon Tu Dinh
+1016	Diem Thon Tram - Chua Nghiem Quang
+1017	Diem thon Ngo
+1018	Nga 3 Thach Ban-Chua Cu Linh
+1019	Diem thon Nha - Cau Vinh Tuy
+1020	Cach loi re vao Chua Sung Khanh 50m
+1021	Diem thon Dong Du Ha
+1022	Diem thon Dong Du Thuong - Cau Thanh Tri
+1023	71 Xa Dan
+1024	Doi dien 298 duong Buoi
+1025	116 A5 Tap the Giang Vo
+1026	211 Kim Ma
+1027	105-111 Lac Long Quan
+1028	Gan nga 3 Vong Thi
+1029	Qua nga 3 Xuan La 70m
+1030	579 Lac Long Quan
+1031	545 Lac Long Quan
+1032	Tru so Quan uy Tay Ho
+1033	Phong Canh sat Phong chay chua chay
+1034	Doi dien ngo 689 Lac Long Quan
+1035	CT13B Khu do thi Nam Thang Long
+1036	Vinh xen he cho xe buyt (so 1 chieu ve Ha Noi)
+1037	Vinh xen he cho xe buyt (so 2 chieu ve Ha Noi)
+1038	Vinh xen he cho xe buyt (so 3 chieu ve Ha Noi)
+1039	Vinh xe buyt duong Hoang Sa - gan diem mo di duong 6 cay
+1040	Qua nga tu Quoc lo 2 - Vo Nguyen Giap
+1041	242 Xa Dan
+1042	Doi dien 311 Kim Ma
+1043	50-52 Lac Long Quan
+1044	196 Lac Long Quan
+1045	Gan nga 3 Xuan La 40m
+1046	312 Lac Long Quan
+1047	360 Lac Long Quan
+1048	Doi dien Phong Canh sat Phong chay chua chay
+1049	Doi dien Quan uy Tay Ho
+1050	Doi dien Khu do thi Nam Thang Long
+1051	Truoc 50m ngo 689 Lac Long Quan
+1052	Vinh xen he cho xe buyt (so 1 chieu di Bac Thang Long)
+1053	Vinh xen he cho xe buyt (so 2 chieu di Bac Thang Long)
+1054	Vinh xen he cho xe buyt (so 3 chieu di Bac Thang Long)
+1055	Vinh xe buyt duong Hoang Sa - Gan diem mo di duong 6 cay
+1056	Nga 4 cau vuot QL5 - Vo Nguyen Giap
+1057	126 Pham Van Dong
+1058	Gan ngo 1 Do Nhuan
+1059	Trung tam y te du phong HN
+1060	658 Truong Dinh
+1061	Doi dien DH Thuong Mai - 6 Ho Tung Mau (cot truoc)
+1062	Dai hoc Thanh Do
+1063	Doi dien Khu do thi Kim Chung - Di Trach
+1064	Diem trung chuyen Nhon (cot sau)
+1065	Dinh va Mieu Dong Co (Thon Nguyen Xa)
+1066	Doi dien Cty CP che tao dien co Ha Noi
+1067	Cong ty CP xay dung Thang Long
+1068	22 pho Nhon
+1069	Buu dien Hoai Duc
+1070	Truoc KDT Lideco 25m
+1071	Qua loi re Hoc vien Khoa hoc Quan su
+1072	Qua 30m doi dien cong lang Hanh Dan
+1073	Tan Lap
+1074	Canh Trung doan thong tin 21(Cua hang Dau bong Pupe Cau Dien)
+1075	135 To 3 (Doi dien truong mam non Sao Mai - Kieu Mai)
+1076	Trung tam kiem dinh xe may quan su (Cau Dien)
+1077	Cong ty Viglacera Tay Mo
+1078	Cong ty TNHH Co khi Trung Son
+1079	Truoc doi dien loi re duong Xuan Phuong 8 30m
+1080	Khu do thi Van Canh
+1081	Qua doi dien loi vao THPT Dai Mo
+1082	Xom La - Dai Mo
+1083	Gan cong lang Phu Do
+1084	Tuong rao Tram y te Me Tri
+1085	Nha hang Han Quoc, nha CT4 DN KDT My Dinh
+1086	Doi dien Truong Dai hoc Lao dong va Xa Hoi - 48 Tran Duy Hung
+1087	Doi dien Benh vien Xanh Pon
+1088	Nga ba Hoang Dieu-Hoang Van Thu
+1089	34-36 Hoang Dieu
+1090	Doi dien den Quan Thanh
+1091	Chua Tran Quoc
+1092	E1.4 Diem trung chuyen Long Bien
+1093	Truoc doi dien Cong ty Viglacera Tay Mo
+1094	Qua loi re duong Xuan Phuong 8 15m
+1095	Truoc doi dien Cong ty Co khi Trung Son
+1096	Loi vao THPT Dai Mo
+1097	Qua nga ba lang Mieu Nha
+1098	Doi dien Toa nha BITEXCO
+1099	Giua Toa nha CT1-1 va CT1-2 Khu do thi Me Tri Ha
+1100	Dai hoc Lao dong va Xa hoi - 43 Tran Duy Hung
+1101	97 Lang Ha
+1102	Qua 70m nga ba Dang Tien Dong-Hoang Cau
+1103	59 Hoang Cau
+1104	23-25 Hoang Cau
+1105	Doi dien duong Hoang Van Thu
+1106	Doi dien tuong dai Bac Son
+1107	192A Quan Thanh
+1108	19 Nguyen Bieu
+1109	Qua nga 3 Thanh Nien-Tran Vu 50m
+1110	Ho Truc Bach - Doi dien 28C Thanh Nien
+1111	E3.3 Diem trung chuyen Long Bien
+1112	Dai hoc Thuong Mai - Ho Tung Mau (cot truoc)
+1113	Doi dien loi re Hoc vien Khoa hoc Quan su
+1114	Cua hang xay dung Tuan Loan (Thi tran Lai Xa)
+1115	Doi dien nha hang Thang Long
+1116	Diem trung chuyen Nhon
+1117	Doi dien Dinh va Mieu Dong Co (Thon Nguyen Xa)
+1118	Cong ty CP che tao dien co Ha Noi
+1119	Qua duong vao Trung tam Huan luyen The thao Quoc gia I
+1120	He giua nha so 55-57 pho Nhon
+1121	Cach nga 4 Tram Troi 250 - Tan Lap
+1122	Qua 30m cong lang Hanh Dan
+1123	150-152 To 3 Duong 32
+1124	Doi dien trung doan thong tin 21(Cau Dien)
+1125	Sieu thi Dos Mark
+1126	Truong THCS Kim Lan
+1127	Truoc doi dien Tram bom KL 10m
+1128	UBND xa Kim Lan
+1129	Doi dien nha vuon Tuan Tu thong den xa Phung Cong
+1130	He truoc Agribank Van Giang
+1131	Truong Trung cap Canh sat Nhan dan
+1132	Doi dien nha vuon Kien Hue
+1133	Doi dien Diem canh de Phung Cong
+1134	He truoc so nha 263 thi tran Van Giang
+1135	Doi dien Tram y te huyen Van Giang
+1136	Qua duong vao Mieu Nghe 30m
+1137	Doi dien qua tram xang dau Cuu Cao
+1138	Truoc cot dien KL29
+1139	Truoc cot dien BKD12
+1140	Truoc Salon Duc Trung
+1141	Doi dien truong Trung cap GTVT Mien Bac
+1142	Doi dien Buu dien xa Kieu Ky
+1143	Qua 50m Cong ty TNHH MTV 76
+1144	Kieu Ky
+1145	Doi dien AEON Mall Long Bien
+1146	Doi dien 269 Thach Ban
+1147	Tram Y te xa Kim Lan
+1148	Doi dien UBND xa Kim Lan
+1149	Truoc Y hoc co truyen Dai huu xa Phung Cong
+1150	Phong Giao duc dao tao huyen Van Giang
+1151	Doi dien Truong trung cap Canh sat Nhan dan
+1152	Dien lanh Quy Thom
+1153	Qua diem canh de Phung Cong 50m
+1154	He truoc nha 234 thi tran Van Giang
+1155	HDND, UBND huyen Van Giang
+1156	Truoc doi dien duong vao Mieu Nghe 100m
+1157	Gan tram xang dau xa Cuu Cao
+1158	Qua tram bom Kim Lan 20m
+1159	Truoc doi dien cot dien KL29
+1160	Truoc doi dien cot dien BKD12
+1161	Doi dien cua hang thep Bach Viet
+1162	Qua truong Trung cap GTVT Mien Bac 100m
+1163	Buu dien Kieu Ky
+1164	Truong mam non Sao Mai
+1165	259-261 duong Thach Ban
+1166	Doi dien Cot dien T4A/2A-B duong Co Linh
+1167	Co Nhue
+1168	Trung tam Khoa hoc tu nhien va Cong nghe Quoc gia
+1169	382-384 Thuy Khue
+1170	528 Thuy Khue
+1171	278 Thuy Khue
+1172	72-74 Thuy Khue
+1173	130E-32A Thuy Khue
+1174	Canh truong THPT Chu Van An
+1175	86 Quan Thanh
+1176	Hoc vien Quoc phong
+1177	31 Tan Xuan
+1178	Cong vien Bach Thao (qua pho Ngoc Ha)
+1179	3A Phan Dinh Phung
+1180	Truong Tieu hoc Hoang Hoa Tham
+1181	Benh vien Phoi Trung uong
+1182	741-743 Hoang Hoa Tham
+1183	Cong vien Bach thao (doi dien truong THCS Chu Van An)
+1184	Thanh co Ha Noi
+1185	Khu do thi My Dinh II
+1186	Khoang Xen He Chung Cu A1- Ngan hang Vietcombank
+1187	CN4 Xuan Phuong
+1188	Doi dien toa chung cu HaTeCo Group
+1189	666-668 De La Thanh
+1190	426 De La Thanh
+1191	54 Ly Thuong Kiet
+1192	Doi dien 39 Ly Thuong Kiet
+1193	44 Ly Thuong Kiet
+1194	18 Ly Thuong Kiet
+1195	Ki tuc xa - Khu do thi My Dinh II
+1196	Doi dien Vietcombank
+1197	Chung cu HaTeCo Group
+1198	Doi dien VTV Cap
+1199	Doi dien nha H2 Thanh Cong
+1200	Doi dien 702 De La Thanh
+1201	59 Ly Thuong Kiet
+1202	Doi dien so 1A Trang Tien
+1203	Cong ty Thuong mai va Dich vu Phuong Tram
+1204	Qua truong THCS Long Bien (Gan ngo 46 Tu Dinh)
+1205	106-108 Co Linh
+1206	Doi dien 171 Hoang Nhu Tiep
+1207	Doi dien 107 Nguyen Son
+1208	Doi dien Trung tam y te Hang khong
+1209	Truoc Doan tiep vien hang khong Vietnam Airlines 30m
+1210	Doi dien nha CT8B - duong DX2
+1211	Doi dien nha A3-D1 (Khu do thi Dang Xa)
+1212	183 Thach Ban
+1213	Doi dien 30 Thach Ban
+1214	Doi dien TT the duc the thao Gia Lam
+1215	Khu do thi Dang Xa
+1216	Doi dien nha D5 (Khu do thi Dang Xa)
+1217	Doi dien nha D16 (Khu do thi Dang Xa)
+1218	Doi dien nha D10 (Khu do thi Dang Xa)
+1219	Doi dien cong ty Thuong mai va dich vu Phuong Tram
+1220	Trung tam y te Hang khong
+1221	Doi dien truong THCS Long Bien
+1222	Doi dien ngo 110 Co Linh
+1223	165 Hoang Nhu Tiep
+1224	E1.2 Diem trung chuyen Long Bien
+1225	Truoc Doan tiep vien hang khong Vietnam Airlines 20m
+1226	103 Nguyen Son
+1227	Nha CT8B - duong DX2
+1228	Nha A3-D1 (Khu do thi Dang Xa)
+1229	Doi dien truong THCS Thach Ban
+1230	Truoc 50m ngo 12 Thach Ban
+1231	Trung tam The duc the thao huyen Gia Lam
+1232	Nha D16 (Khu do thi Dang Xa)
+1233	Nha D5 (Khu do thi Dang Xa)
+1234	Nha D10 (Khu do thi Dang Xa)
+1235	Ga Ha Noi (Tuyen 86)
+1236	Cho Quang An
+1237	Sanh tang 2 nha ga T2
+1238	Sanh tang 2 nha ga T1
+1239	Nha ga hang hoa Noi Bai
+1240	KS Melia (Ly Thuong Kiet)
+1241	Nha Hat Lon Ha Noi
+1242	Sanh Tang 1 Nha Ga T2
+1243	Doi dien Ga hang hoa ALS
+1244	Sanh Tang 1 Nha Ga T1
+1245	Doi dien Cong ty CP XNK vat tu Nong Nghiep
+1246	Doi dien lang Tuong Chuc
+1247	Trung tam giao duc thuong xuyen Dong My
+1248	Cau Dong My
+1249	San van dong Dong My
+1250	XN thiet bi y te 130 - Ngu Hiep
+1251	Ky tuc xa Dai hoc Xay dung
+1252	216-218 Bach Mai
+1253	Trung tam thuong mai Me Linh Plaza Ha Dong
+1254	Khu do thi Royal City
+1255	Cong ty CP XNK Vat tu Nong nghiep
+1256	Dinh lang Tuong Chuc
+1257	Cau Dong My
+1258	Cong ty May Dong My
+1259	Doi dien XN Thiet bi Y te 130
+1260	Tuong rao Dai hoc Kinh te Quoc dan
+1261	215 Bach Mai
+1262	Doi dien 58 Le Thanh Nghi
+1263	Diem canh de so 32
+1264	Diem canh de so 30
+1265	Diem canh de so 31 thon Dong Trach
+1266	Tram bom Dong My
+1267	Van Phuc
+1268	Cach loi re vao UBND xa Van Phuc 70m
+1269	Cong lang van hoa My A - thon Dong My
+1270	Doi dien truong Tieu hoc Tu Hiep
+1271	Nha A5 - KDT Phap Van
+1272	Cong C ben xe Nuoc Ngam
+1273	Qua ham duong cau chui dan sinh Tu Hiep
+1274	Qua loi re vao duong Tu Hiep 50m
+1275	Diem canh de so 13, thon Xuan Trach
+1276	Diem canh de so 12, thon Xuan Canh
+1277	Dinh Van Tinh
+1278	316-318 Ngo Gia Tu
+1279	Diem canh de so 14 - de Phuong Trach
+1280	Diem canh de so 15, thon Lai Da
+1281	Diem canh de so 16 - de Phuong Trach
+1282	368 Ngo Gia Tu
+1283	Diem canh de so 17 - de Phuong Trach
+1284	Diem canh de so 18 - de Phuong Trach
+1285	Thon Du Noi
+1286	Canh ngo vao Cong ty co phan vat tu Mo Dia chat
+1287	Truoc duong vao Nghia trang liet sy xa Vong La khoang 30 m
+1288	Truoc duong so 5, thon Sap Mai khoang 50m
+1289	Nha van hoa thon Dai Do, xa Vong La
+1290	Diem canh de so 5, thon Vong La
+1291	Gam cau Thang Long, thon Vong La
+1292	Diem canh de so 6 - De ta Song Hong
+1293	Khu cong nghiep Bac Thang Long
+1294	Diem canh de so 7, tram y te xa Hai Boi
+1295	Diem canh de so 8, xa Hai Boi
+1296	Diem canh de so 11
+1297	Diem canh de so 9, xa Vinh Ngoc
+1298	Diem canh de so 10, xa Tam Xa
+1299	608-610 Ngo Gia Tu
+1300	44 Ha Huy Tap
+1301	102 Thien Duc
+1302	Doi dien diem canh de so 13, thon Xuan Trach
+1303	Doi dien diem canh de so 12, thon Xuan Canh
+1304	Doi dien Dinh Van Tinh
+1305	505-507 Ngo Gia Tu
+1306	Doi dien diem canh de so 14
+1307	Doi dien diem canh de so 15, thon Lai Da
+1308	Diem canh de so 16, xa Dong Hoi
+1309	713-715 Ngo Gia Tu
+1310	Doi dien diem canh de so 17, xa Mai Lam
+1311	Doi dien diem canh de so 18 - de Phuong Trach
+1312	Doi dien thon Du Noi
+1313	Doi dien ngo vao Cty CP vat tu Mo dia chat
+1314	Truoc duong vao Nghia trang liet sy xa Vong La khoang 70m
+1315	Qua duong so 5 thon Sap Mai khoang 30m
+1316	Doi dien Nha van hoa thon Dai Do
+1317	Doi dien diem canh de so 5, lang chai Vong La
+1318	Qua gam cau Thang Long, thon Vong La
+1319	Doi dien diem canh de so 6 - De ta Song Hong
+1320	Doi dien diem canh de so 7
+1321	Doi dien diem canh de so 8, xa Hai Boi
+1322	Doi dien diem canh de so 11
+1323	Doi dien diem canh de so 9, xa Vinh Ngoc
+1324	Doi dien diem canh de so 10, xa Tam Xa
+1325	1095 Ngo Gia Tu
+1326	Ngo 53 Thien Duc
+1327	Cong ty CP suat an hang khong Noi Bai
+1328	Cong ty xang dau hang khong Viet Nam (Vinapco)
+1329	Doi dien diem canh de so 32 thon Dong My
+1330	Doi dien diem canh de so 30
+1331	Doi dien diem canh de so 31 thon Dong Trach
+1332	Qua loi re vao UBND xa Van Phuc 50m
+1333	Doi dien cong lang van hoa My A - thon Dong My
+1334	Doi dien tram bom Dong My
+1335	Truong Tieu hoc Tu Hiep
+1336	Doi dien No 23 - KDT Phap Van-Tu Hiep
+1337	Doi dien nha A5 - KDT Phap Van
+1338	Doi dien loi re vao duong Tu Hiep 70m
+1339	Gan ham duong cau chui dan sinh Tu Hiep
+1340	Giua nha 56-58 To 9 duong K3 Phu Dien
+1341	Giua nha 336-338 duong K3 Phu Dien
+1342	Ben cuoi Hoc vien Canh sat Nhan dan
+1343	Giua nha 54-56 Pham Van Nghi
+1344	Qua nga ba vao thon Tru 2
+1345	Doi dien doanh trai Quan doi Nhan dan Viet Nam
+1346	Doi dien 77 Tran Quoc Hoan
+1347	So 6 Tran Quoc Hoan
+1348	Doi dien 596 Lac Long Quan
+1349	Cong Ty Co Phan DGL Viet Nam
+1350	Diem do xe buyt Hao Nam
+1351	San bay Noi Bai (Nha ga T2)
+1352	Ga Van Khe
+1353	Doi dien bai do xe Cong ty Hino
+1354	90 Khuat Duy Tien
+1355	162 Khuat Duy Tien
+1356	Doi dien 289A Khuat Duy Tien - Vinaconex1
+1357	Tuong rao Cong ty Hino
+1358	39-41 Khuat Duy Tien
+1359	Quan uy Thanh Xuan
+1360	246 Khuat Duy Tien
+1361	105 Cuong Kien
+1362	Khu do thi Trung Van
+1363	He truoc so 38 Mieu Dam - Den Thanh Mau
+1364	Truoc nha so 3 lo A Do Duc Duc
+1365	2/2C Khu Ngoai giao doan
+1366	240 Kim Ma
+1367	140 Son Tay
+1368	Doi dien 105 Cuong Kien
+1369	Doi dien so 42 duong Mieu Dam
+1370	Doi dien so nha 3 lo A duong Do Duc Duc
+1371	Giua so nha DG10-14 va DG10-26 - Duong Le Xuan Diep
+1372	Khu do thi Kien Hung
+1373	Doi dien khu chung cu va nha o quan doi
+1374	Tuong rao khach san Muong Thanh - KDT Xa La - Duong Phuc La
+1375	Doi dien 17 To 10 Kien Hung
+1376	Doi dien san bong Mau Luong
+1377	Doi dien Nha CT2A Khu do thi Xa La - Duong Phuc La
+1378	Doi dien 22 DG8 Khu do thi Kien Hung
+1379	Ban chi huy quan su quan Ha Dong
+1380	Doi dien Nha CT4B Khu do thi Xa La - Phuc La
+1381	Mieu lang Mau Luong
+1382	Trung tam the thao Mau Muong
+1383	Nha CT2B - KDT Xa La - Duong Phuc La
+1384	Xuan Mai (Nha may thuc an chan nuoi CP)
+1385	So 12 To 6 Khu Chien Thang
+1386	Cach cau Xuan Mai 50m
+1387	Doi dien Truong Cao dang Nong nghiep va Phat trien Nong thon Bac Bo
+1388	Benh xa 24 Phong Kham benh Quan dan Y
+1389	So 17 To 7 Tan Binh TT Xuan Mai
+1390	Cau Quan Lat
+1391	So 66 To 6 Khu Xuan Mai
+1392	Nha may Z119
+1393	Nha van hoa khu Xuan Mai
+1394	Tien An (chieu di Xuan Mai)
+1395	Trung tam dang kiem xe co gioi 29-11D
+1396	Doi dien nha phan phoi Phong Tung
+1397	Doi dien dien lanh Hoa Phat, Cong Thao
+1398	Nga 3 Yen Kien-Quoc lo 6
+1399	Cong lang Dong Phuong Yen
+1400	Cho Dong Phuong Yen
+1401	Phu Yen - Truong Yen - Chuong My (Chieu di)
+1402	Chua Co Mau
+1403	Cua hang xang dau Phu Nghia
+1404	Khu cong nghiep Phu Nghia
+1405	Doi dien Duong vao thon Co Phap
+1406	Cach cay xang Van Xuan 100m
+1407	Qua loi re di chua Tram Gian 200m
+1408	Cua hang DTDD Mobifone Nam Cuong
+1409	Gan Tru so Cong an huyen Chuong My
+1410	Nha tho Giao ho Phuong Bai, gan duong vao DH Su pham TTDTT Trung uong
+1411	UBND phuong Bien Giang
+1412	Doi dien Cong ty co phan co khi xay dung Ha Thai (Bien Giang)
+1413	Cho cau Mai Linh
+1414	Doi dien Cong ty co phan Go Thep Dai Loc
+1415	Ao lang Do Lo
+1416	Cay xang To 8 Khu Chien Thang
+1417	Truong Cao dang Nong nghiep va Phat trien Nong thon Bac Bo
+1418	So 6 To 3 Khu Chien Thang
+1419	So 39 To 7 Khu Tan Binh Thi tran Xuan Mai
+1420	Buu dien Xuan Mai
+1421	To 2 khu Xuan Ha - Xuan Mai
+1422	Cau Quan Lat
+1423	Doi dien Nha van hoa Thi tran Xuan Mai
+1424	Doi dien nha may Z119
+1425	Tien An (chieu ve Ha Noi)
+1426	Doi dien Trung tam dang kiem xe co gioi 29-11D
+1427	Nha phan phoi Phong Tung
+1428	Doi dien nga 3 Yen Kien-Quoc lo 6
+1429	Doi dien Thon Doi Hai, Dong Phuong Yen
+1430	Doi dien cong lang Dong Phuong Yen
+1431	Doi dien cho Dong Phuong Yen
+1432	Phu Yen - Truong Yen - Chuong My (Chieu ve)
+1433	Doi dien chua Co Mau
+1434	Doi dien cua hang xang dau Phu Nghia
+1435	Doi dien Khu cong nghiep Phu Nghia
+1436	Duong vao thon Co Phap
+1437	Doi dien qua cay xang Van Xuan 100m
+1438	Doi dien gan duong vao chua Tram Gian 100m
+1439	Doi dien Khu cong nghiep Van Minh
+1440	Gara Oto Doan Chien
+1441	So nha 80 khu Bac, Thi tran Chuc Son
+1442	Duong vao ngo 253 Bien Giang
+1443	Nga 3 duong vao Truong Dai hoc Su pham The duc the thao Ha Noi
+1444	Cong ty CP Co khi xay dung Ha Thai
+1445	Cho cau Mai Linh - 1529 Quang Trung (Ha Dong)
+1446	Qua cay xang Co Ban
+1447	Doi dien Gieng co thon Do Lo
+1448	Doi dien Cong lang Nghia Lo
+1449	Doi dien Ky tuc xa truong Dang Nguyen Ai Quoc
+1450	182 Tran Cung - Doi dien Vien E
+1451	Dai tuong niem liet sy Co Nhue
+1452	548 Tran Cung
+1453	Doi dien so nha 69 Hoang Tang Bi
+1454	29 Ngoc Khanh
+1455	Doi dien 70 Ngoc Khanh
+1456	Bai do xe Dich Vong
+1457	Benh vien E
+1458	121 Tran Cung
+1459	229 Tran Cung
+1460	Hang rao so nha 51 Hoang Tang Bi
+1461	172 Ngoc Khanh
+1462	104 Nha B Tap the Ngoc Khanh
+1463	512-514 Bach Mai
+1464	368-370 Bach Mai
+1465	Benh vien Mat Trung Uong
+1466	Doi dien KDT Dang Xa (Km 8+00 Quoc lo 5)
+1467	Doi dien KCN Gia Lam
+1468	Cong Ga Phu Thi
+1469	Doi dien duong vao Nha may Sua Ha Noi
+1470	Gan cau vuot 4 Phu Thi
+1471	Truong THCS Duong Xa
+1472	Gan duong vao chua Yen Binh
+1473	Doi dien Cho Sui (Canh bien giao thong "cho")
+1474	Tram y te xa Phu Thi
+1475	Cua hang xang dau so 65 Phu Thi
+1476	Doi dien duong vao di tich Kim Son
+1477	Tram bien ap TC Kim Son (cho Keo)
+1478	Doi dien duong chua Sen Ho
+1479	Le Chi
+1480	Truoc Nga tu Da Ton-Tinh lo 379 khoang 50m
+1481	171 Da Ton
+1482	Tram y te xa Da Ton
+1483	Doi dien Dinh Ngoc Dong
+1484	Truoc cong truong Tieu hoc Da Ton khoang 20m
+1485	Gan tu dien RMU Cat 1 Bai rac Kieu Ky
+1486	Doi dien Chua Kieu Ky
+1487	Qua Cum san xuat lang nghe Kieu Ky 50m
+1488	Truoc Nga tu Tinh lo 379-Duong vao Khu do thi Vinhomes khoang 50m
+1489	Qua vong xuyen nga tu Tinh lo 379-QL1A khoang 50m
+1490	Doi dien Truong cap 1A Thach Ban
+1491	Truoc Cau vuot Phu Thi khoang 50m
+1492	Khu Giao duc the chat - Truong THPT Duong Xa
+1493	Doi dien Tram bien ap Duong Xa 9
+1494	Doi dien Nha van hoa thon Bai Tam
+1495	Truoc Cau Trung khoang 30m
+1496	Truong THCS Duong Quang
+1497	Qua Tram bien ap Duong Quang 10 khoang 30m
+1498	Diem do xe buyt Duong Quang
+1499	Qua nga tu Da Ton-DT 379 khoang 50m
+1500	Quy tin dung nhan dan xa Da Ton
+1501	Doi dien 175 Da Ton
+1502	Dinh Ngoc Dong
+1503	Doi quan ly dien so 4-Da Ton
+1504	Doi dien tu dien RMU Cat 1 Bai rac Kieu Ky
+1505	Chua Kieu Ky
+1506	Truoc Cum san xuat lang nghe Kieu Ky 50m
+1507	Qua nga tu DT 379-Duong vao Khu do thi Vinhomes khoang 50m
+1508	Truoc Vong xuyen nga tu DT 379-QL1A khoang 50m
+1509	Truoc tuong rao Truong cap 1A Thach Ban
+1510	Qua Cau vuot Phu Thi khoang 50m
+1511	Doi dien Khu Giao duc the chat - THPT Duong Xa
+1512	Doi dien Truong THCS Duong Xa
+1513	Nha van hoa thon Bai Tam
+1514	Qua Cau Trung khoang 30m
+1515	Tram bien ap Duong xa
+1516	Truoc Tram bien ap Duong Quang 10 khoang 20m
+1517	Doi dien Truong THCS Duong Quang
+1518	548 Nguyen Van Cu
+1519	Thon Van Loc
+1520	Nga 3 Vinh Ngoc
+1521	Truoc cong cong ty Minh Cuong 50m
+1522	Truoc nga 3 cong vien Cau Doi 70m (chieu Ha Noi - Dong Anh)
+1523	Doi dien Cong ty xay lap Dien 4, Thi tran Dong Anh
+1524	Doi dien Vien kiem soat Dong Anh
+1525	Doi dien so 03-05 Pho To, Uy No
+1526	Canh Cong ty Be tong Appha, Dong Hoi
+1527	Cay da Bac Ho
+1528	Duong vao khu di tich Co Loa
+1529	Doi dien Trung tam luu tru Loc Ha
+1530	Doi dien Cong ty Duc Mai Lam
+1531	So 94-98 Cao Lo
+1532	Thi tran Dong Anh
+1533	Doi dien thon Van Loc
+1534	Qua nga 3 Vinh Ngoc
+1535	Doi dien cong ty Minh Cuong
+1536	Truoc nga 3 cong vien Cau Doi 70m
+1537	Doi dien Kho bac nha nuoc huyen Dong Anh
+1538	9 Uy No
+1539	Doi dien Cong ty Be tong Appha
+1540	Gan duong vao Khu di tich Co Loa 150m
+1541	Gan cong lang Tien Hoi, cay da Bac Ho
+1542	Doi dien nga 3 Duc Tu, thon Loc Ha
+1543	Cong ty Duc Mai Lam
+1544	So 25-27 Cao Lo
+1545	17-19 Pho To, Uy No
+1546	Truong Huu nghi T78
+1547	Nga tu Gach (chieu di Son Tay)
+1548	Ben xe Son Tay
+1549	May Minh Phuong
+1550	Cua hang xang dau so 14
+1551	Qua Chi cuc Thue huyen Phuc Tho 20m
+1552	Truoc Cong ty May Bona Viet Nam 20m
+1553	Doi dien lang van hoa Luc Xuan
+1554	Truoc duong vao dinh lang Vong Ngoai 30m
+1555	Gan cua khau xa Cam Dinh
+1556	Doi dien truong mam non Vong Xuyen
+1557	UBND xa Xuan Phu
+1558	Qua nga 4 Xuan Phu 50m
+1559	Doi dien UBND xa Van Nam
+1560	Qua doi dien truong THPT Van Coc
+1561	Truoc 50m nga ba duong vao xa Hat Mon
+1562	Doi dien xom Ca
+1563	Km10 - duong 417 (doi dien truong THCS Trung Chau)
+1564	Doi dien diem canh de so 7
+1565	Gan cot moc Van Coc 13km
+1566	Lang Huong Luy
+1567	San van dong The duc the thao xa Tho An
+1568	Doi dien truong THPT Hong Thai
+1569	Gan cot moc Van Coc 15km
+1570	Doi dien cong lang Bong Lai
+1571	Doi dien cong Dong lang Ba Duong Noi
+1572	UBND xa Van Phuc
+1573	Qua loi vao truong THCS Van Coc
+1574	Truong Trung cap nghe Giao thong Cong chinh
+1575	Qua 50m doi dien cong nghia trang liet si Tay Tuu
+1576	Qua 100m cong truong Tieu hoc Tay Tuu A
+1577	Qua 150m duong vao truong Dai hoc Cong nghiep Ha Noi
+1578	Qua doi dien 100m nga 3 Ky Vu-Tay Tuu
+1579	Doi dien cong lang Thuong Cat 1
+1580	Qua truong THCS Lien Ha
+1581	UBND xa Lien Trung
+1582	Lang Quy
+1583	Doi dien cong lang Thuong Cat 2
+1584	Thon Trung
+1585	Lang To
+1586	Doi dien lang Huu Cuoc
+1587	Xom Bac
+1588	Nga tu Gach (chieu di Yen Nghia)
+1589	Doi dien Truong Huu nghi T78
+1590	Doi dien Cua hang xang dau so 14
+1591	Doi quan ly giao thong 4
+1592	Truoc doi dien Chi cuc Thue huyen Phuc Tho 15m
+1593	Qua doi dien Cong ty May Bona Viet Nam 15m
+1594	Lang van hoa Luc Xuan
+1595	Qua doi dien duong vao dinh lang Vong Ngoai 20m
+1596	Qua cua khau xa Cam Dinh
+1597	Truoc cong truong mam non Vong Xuyen
+1598	Truoc doi dien UBND xa Xuan Phu
+1599	Truoc nga 4 Xuan Phu 70m
+1600	UBND xa Van Nam
+1601	Truong THPT Van Coc
+1602	Qua 70m nga ba duong vao xa Hat Mon
+1603	Truong THCS Trung Chau
+1604	Gan cong xom Ca
+1605	Gan diem canh de so 7
+1606	Gan diem canh de so 10
+1607	Doi dien San van dong The duc the thao xa Tho An
+1608	Doi dien lang Huong Luy
+1609	Truong THPT Hong Thai
+1610	Lang Ha Mo
+1611	Cong lang Bong Lai
+1612	Cong Dong lang Ba Duong Noi
+1613	Doi dien UBND xa Van Phuc
+1614	Truong THCS Van Coc
+1615	Truoc 50m cong nghia trang liet si Tay Tuu
+1616	Truoc 50m doi dien cong truong Tieu hoc Tay Tuu A
+1617	Truoc 250m doi dien duong vao khu B truong Dai hoc Cong nghiep Ha Noi
+1618	Truoc 50m nga 3 Ky Vu-Tay Tuu
+1619	Cong lang Thuong Cat 1
+1620	Gan doi dien truong THCS Lien Ha
+1621	Doi dien UBND xa Lien Trung
+1622	Doi dien Lang Quy
+1623	Cong lang Thuong Cat 2
+1624	Doi dien thon Trung
+1625	Doi dien xom Bac
+1626	Doi dien lang To
+1627	Lang Huu Cuoc
+1628	Vuon hoa Bac Bien chan cau Long Bien
+1629	140 Ngoc Thuy
+1630	270 Ngoc Thuy - UBND phuong Ngoc Thuy
+1631	Ngo 352 Ngoc Thuy
+1632	Ngo 424 Ngoc Thuy
+1633	Truoc cong benh vien da khoa Duc Giang 15m
+1634	Doi dien UBND quan Long Bien
+1635	Qua ngo 608 Ngoc Thuy
+1636	203-205 Duc Giang
+1637	Doi dien cong ty che tao may bien ap Ha Noi
+1638	103 Vu Xuan Thieu
+1639	Truoc nga 3 duong Hoa Sua-Vu Xuan Thieu
+1640	Doi dien Nha may bia Viet Duc
+1641	Truong Tieu hoc Viet Hung
+1642	Doi dien khu BT6 - Khu do thi Viet Hung
+1643	Chung cu H1 Khu do thi Viet Hung
+1644	Doi dien vuon hoa Bac Long Bien
+1645	209 Ngoc Thuy
+1646	295 Ngoc Thuy (Doi dien UBND phuong Ngoc Thuy)
+1647	367 Ngoc Thuy
+1648	Doi dien ngo 456 Ngoc Thuy
+1649	Qua doi dien cong benh vien da khoa Duc Giang 10m
+1650	Truoc cong UBND quan Long Bien 15m
+1651	Doi dien 644 Ngoc Thuy - Hoc vien Hau Can
+1652	He so 198 Duc Giang
+1653	Cong ty che tao May bien ap Ha Noi
+1654	40 Vu Xuan Thieu
+1655	118 Vu Xuan Thieu
+1656	Doi dien duong Hoa Sua
+1657	Khu BT6 - Khu do thi Viet Hung
+1658	Toa nha CT15 Khu do thi Viet Hung
+1659	132 pho Van Hanh
+1660	Do Nghia - Tuyen 105
+1661	Doi dien cong ty cay xanh Viet Nam- duong Yen Lo
+1662	Truong THCS Yen Nghia - Duong Yen Lo
+1663	Truong THCS Kien Hung - Da Sy
+1664	Qua cau di bo nha cho Park City tuyen BRT khoang 30m - Le Trong Tan (Ha Dong)
+1665	Qua nha cho La Khe tuyen BRT 01 khoang 30m, Doi dien duong vao chua Bia Ba - Le Trong Tan (Ha Dong)
+1666	Truoc 30m doi dien ngo 5 Le Hong Phong (Ha Dong)
+1667	Doi dien Truong THCS Le Hong Phong - Le Hong Phong
+1668	Truong THCS Le Loi - So 160 Le Loi (Ha Dong)
+1669	Qua nga tu Ha Tri - Da Sy khoang 100m
+1670	Truong Mam non Da Sy (Doi dien Chua lang Da Sy) - Da Sy
+1671	Bo Tu lenh Canh sat bien Viet Nam (Doi dien cho Ha Dong) - 94 Le Loi (Ha Dong)
+1672	Ga Van Quan - 149 Tran Phu
+1673	Cach cau Cot khoang 120m, duong bo song To Lich - Nguyen Khang
+1674	Doi dien so 369 Nguyen Khang
+1675	Doi dien Phong Dao tao giao duc quan Cau Giay - Nguyen Khang
+1676	So 1 Lo 11B Khu do thi Trung Yen, duong Trung Yen 10 - Trung Hoa
+1677	Qua xi mang Hoang Son 300m
+1678	Xuan Mai (Truong Cao dang Cong dong Ha Tay)
+1679	Cua hang tap hoa Cong Phuong
+1680	Truoc cua hang phu tung xe may Quynh Hong 50m
+1681	Cua hang tap hoa Bo Binh
+1682	Doi dien trung tam huan luyen Mieu Mon
+1683	Doi dien cua hang nuoc Toan Phuong
+1684	Doi dien nha thuoc thu y Huynh Tiep
+1685	Doi dien cua hang xang dau Phuc Lam
+1686	Dai ly bia hoi Kien Phong
+1687	Doi dien xuong sua chua Nguyen Huy
+1688	Doi dien cua hang vat lieu Xuan Cuong
+1689	Doi dien loi vao xom Quyet Tien
+1690	Doi dien cua hang rua xe Hai Xuan
+1691	Qua cua hang xang dau Duc Phuong 50m
+1692	Truoc nga 3 Quoc lo 21 - Nguyen Van Troi 150m
+1693	Qua nha may gom xay dung Hong Ha 50m
+1694	Cua hang sua xe Ky Nguyen
+1695	Cua hang cat toc Nguyen Phan
+1696	Thi tran Van Dinh
+1697	So 202 Le Loi - Thi tran Van Dinh
+1698	Gan cong lang Luong Xa
+1699	Duong vao UBND xa Lien Bat
+1700	Truong THCS Lien Bat
+1701	Cong lang xom Chua
+1702	Dinh lang Bat Ngo
+1703	Gan Cau Lao, doi dien duong re di duong 80
+1704	Nga 3 Quan Tron (Cua hang xang dau so 26)
+1705	Doi dien giao ho Van Dong
+1706	Cho Ba Tha (Cach cau Ba Tha 100m)
+1707	Qua cau Ba Tha khoang 100m
+1708	Qua loi vao trung tam Bao tro Xa hoi 50m
+1709	Qua cua hang Long Nga 100m
+1710	Cua hang may khau Minh Tri
+1711	Cong ty TNHH Tien Manh
+1712	So 24 xom Thanh Si, thon Xuyen Duong, xa Xuan Duong
+1713	Thon Xa Cau (Truoc cau Xa Kieu 300m)
+1714	Doi dien cong lang Tao Duong
+1715	Lang Ngoc Dinh
+1716	Truoc bien bao loi vao ngo 2 xom Bai, thon Truong Xuan
+1717	Qua loi vao Den Mau thon Phu Khang 80m
+1718	So 143 thon Moi, Doc Moc, Cao Duong
+1719	Nha hang Thanh Phong
+1720	Giua so nha 50-52 Cao Xa, Cao Duong
+1721	Doi dien so nha 35 pho Vac
+1722	Dinh lang Canh Hoach
+1723	Qua loi vao xom Cham Ron 70m
+1724	Gara O to Huu Luc
+1725	Cua hang tap hoa Thuc Ngat
+1726	Nha hang Truong Mai
+1727	Doi dien quan che co Huong
+1728	Tuong rao trung tam huan luyen Mieu Mon
+1729	Doi dien cua hang bia hoi Cau Ut
+1730	Nha thuoc thu y Huynh Tiep
+1731	Cua hang xang dau Phuc Lam
+1732	Cua hang toc Thanh Xuan
+1733	Cua hang Vui Huynh
+1734	Cua hang thuoc thu y Quang Trang
+1735	Cua hang cat toc Dung
+1736	Doi dien loi vao chua Tan Son
+1737	Cua hang banh Nguyen Linh
+1738	Qua cay xang tu Luc 1 50m
+1739	Sieu thi HC Mart
+1740	Cua hang tap hoa Ha Long
+1741	Doi dien 190 Le Loi - Thi tran Van Dinh
+1742	Doi dien Cong lang Luong Xa
+1743	Doi dien truong THCS Lien Bat
+1744	Doi dien UBND xa Lien Bat
+1745	Doi dien cong lang xom Chua
+1746	Doi dien Dinh chua lang Bat Ngo
+1747	Gan Cau Lao, duong re di duong 80
+1748	Nghia trang liet sy xa Quang Phu Cau
+1749	So 19 thon Van Dong
+1750	Quan cafe Linh, Ba Tha (Qua cay xang Son Hai 150m)
+1751	Truoc cau Ba Tha khoang 150m
+1752	Truoc loi vao ngo Le thon Phu Yen
+1753	Cua hang Bia hoi Tuan Thu
+1754	Cua hang Spa Lan An
+1755	Doi dien cua hang tap hoa truoc cong lang Vien Ngoai 150m
+1756	So 31 xom Thanh Si, thon Xuyen Duong
+1757	Qua 300m cau Xa Kieu
+1758	Lang Tao Duong
+1759	Doi dien cong lang Ngoc Dinh
+1760	Truoc loi re vao Den Mau, thon Phu Khang 80m
+1761	Cua hang Viettel so 3 thon Truong Xuan
+1762	So 94 thon Moi, Doc Moc, Cao Duong
+1763	Doi dien nha hang Thanh Phong
+1764	So 27 Pho Vac
+1765	Qua doi dien dinh lang Canh Hoach
+1766	Doi dien Tram y te Tan Phu
+1767	Diem do xe buyt Mieu Mon
+1768	Truoc loi vao go Ao Sen
+1769	Truoc doi dien truong Nguyen Van Troi
+1770	Qua UBND xa Huu Van 100m
+1771	Doi dien quan bia hoi Thang Ha
+1772	Doi dien cua hang spa Nguyen Huong
+1773	Qua doi dien loi vao lang van hoa An Thuong 1
+1774	Doi dien cua hang toc Huyen Anh
+1775	Cua hang may tinh Manh Duc
+1776	Cua hang dien tu Manh Cuong
+1777	Doi dien cong ty TNHH To Lam
+1778	Cong ty pin Hiep Van
+1779	Qua tram y te xa Tot Dong 20m
+1780	Truong PTTH Tot Dong
+1781	Doi dien tap hoa Co Hanh
+1782	Cua hang Spa Thanh Tinh
+1783	Qua THCS Tot Dong 50m
+1784	Truoc cau Den Khe 50m
+1785	Qua cong lang Yen Khe 50m
+1786	Qua loi vao xom Trai 50m
+1787	Thon 1 Dai Yen
+1788	Qua nga ba Nguyen Van Troi 100m
+1789	Truong Tieu hoc Thi tran Chuc Son
+1790	Doi dien Nghia trang liet sy Thi tran Chuc Son
+1791	UBND huyen Chuong My
+1792	Tram y te Tan Phu
+1793	Qua doi dien loi vao go ao sen 50m
+1794	Tuong rao truong Nguyen Van Troi
+1795	Truoc UBND xa Huu Van 100m
+1796	Quan bia hoi Thang Ha
+1797	Doi dien cua hang toc Hai Yen
+1798	Truoc doi dien loi vao lang van hoa An Thuong 1
+1799	Doi dien cua hang gio cha Au Hoang
+1800	Doi dien cua hang do go Toan Tien
+1801	Canh quan bia Son Tung
+1802	Cua hang son KHuong Nhung
+1803	Tram y te xa Tot Dong
+1804	Doi dien cua hang thoi trang Yen Duyen
+1805	Doi dien truong PTTH Tot Dong
+1806	Qua ngo Dong Rang 50m
+1807	Truoc doi dien cua hang Spa Thanh Tinh
+1808	Truoc THCS Tot Dong 50m
+1809	Qua cau Den Khe 50m
+1810	Truoc cong lang Yen Khe 50m
+1811	Truoc loi vao Xom Trai 50m
+1812	Doi dien thon 1 Dai Yen
+1813	Truoc nga ba Nguyen Van Troi 100m
+1814	Canh so nha 99 Bac Son
+1815	Doi dien Truong Tieu hoc Thi tran Chuc Son
+1816	Dai tuong niem liet sy huyen Chuong My
+1817	Doi dien duong vao den Hai Ba Trung 20m
+1818	Doi dien cong ty son Alex
+1819	Doi dien cong lang Noi Dong truoc
+1820	Truoc doi dien Benh vien Da khoa Me Linh 400m
+1821	Ngan hang Viettinbank Me Linh
+1822	Truoc doi dien Tram y te xa Dai Thinh 30m
+1823	Qua cong lang Thuong Le 50m
+1824	Truoc doi dien loi re vao UBND huyen Me Linh 70m
+1825	UBND xa Tien Phong
+1826	Doi dien chua Trung Hau
+1827	Doi dien Cong ty TNHH XD CN 305
+1828	Cong ty co phan Tam Son
+1829	Cong ty Hamatra
+1830	Qua cong truong THPT Tien Phong 70m
+1831	Qua cau vuot nga 4 Nam Hong 200m
+1832	Chan cau vuot Nam Hong
+1833	Chi cuc Thue huyen Me Linh
+1834	Khu du lich doi 79 Mua Xuan
+1835	Doi dien Xi nghiep do dac va ban do
+1836	Diem do xe buyt Thanh Lam (Me Linh)
+1837	Den tho Hai Ba Trung
+1838	Cong ty son Alex
+1839	Truoc cong lang Noi Dong 1 70m
+1840	Qua diem cuoi Benh vien Da khoa Me Linh 300m
+1841	Doi dien ngan hang Viettinbank
+1842	Tram y te xa Dai Thinh
+1843	Doi dien cong lang Thuong Le
+1844	Qua loi vao khu hanh chinh huyen Me Linh 100m
+1845	Doi dien hoi truong da nang xa Tien Phong
+1846	Chua Trung Hau
+1847	Doi dien qua cong truong THPT Tien Phong 60m
+1848	Cach cong Cong ty TNHH xay dung 305 30m
+1849	Truoc doi dien Cong ty Co phan Tam Son 30m
+1850	Doi dien cong ty Hamatra
+1851	Truoc cau vuot nga 4 Nam Hong 200m
+1852	Doi dien chi cuc Thue huyen Me Linh
+1853	Nghia trang Thanh Tuoc
+1854	Xi nghiep do dac va ban do
+1855	Doi dien Truong THCS Quang Phu Cau
+1856	Dinh Quang Nguyen (chieu di Phu Tuc)
+1857	Cua hang dien thoai Trung Thanh
+1858	Doi dien cua hang xang dau Quang Phu
+1859	Truoc cau Bau 70m
+1860	Xom Bau Bac (chieu di Phu Tuc)
+1861	Diem do xe buyt Phu Tuc (Phu Xuyen)
+1862	Cong lang Phu Tuc
+1863	Doi dien cong thon Luu Thuong
+1864	Truoc duong vao Chua thon Duong La 40m
+1865	Truoc Nha hang am thuc sinh thai Duc Vuong 100m
+1866	Doi dien cong lang Vu Lang
+1867	Trung tam Giao duc thuong xuyen Thanh Oai
+1868	Doi dien cay xang Pho Vac
+1869	Thon Don Thu, xa Kim Thu (Chieu di Phu Tuc)
+1870	Thon Tan Thu
+1871	Cay xang 370 Kim Bai
+1872	Cho Kim Bai
+1873	Doi dien UBND huyen Thanh Oai
+1874	Qua loi vao Benh vien huyen Thanh Oai 30m
+1875	Truoc 30m doi dien loi vao tram bien ap Thanh Oai
+1876	Cua hang sua chua xe may Xuan Bac
+1877	Doi dien Viglacera Tu Liem
+1878	Cua hang xang dau Phu Ngoc
+1879	Qua nga 3 tinh lo 427
+1880	Xom Cho, Binh Da
+1881	Truong Cao dang nghe Simco Song Da
+1882	570-572 Thach Bich
+1883	306-308 Thach Bich
+1884	Cum Cong nghiep Thanh Oai
+1885	Cum Cong nghiep Thanh Oai (cong phu)
+1886	90 to 7 Phu Lam
+1887	Trung cap Ky thuat Y duoc Ha Noi
+1888	124 Pho Xom
+1889	46 Ba La - Trung cap Y Ha Noi
+1890	Truong THCS Quang Phu Cau
+1891	Dinh Quang Nguyen (chieu di Yen Nghia)
+1892	Doi dien cua hang dien thoai Trung Thanh
+1893	Gan cua hang xang dau Quang Phu
+1894	Qua cau Bau 20m
+1895	Xom Bau Bac (chieu di Yen Nghia)
+1896	Doi dien cong lang Phu Tuc
+1897	Thon Luu Thuong
+1898	Qua doi dien duong vao Chua thon Duong La 60m
+1899	Nha hang sinh thai Minh Vuong
+1900	Cong lang Vu Lang
+1901	Gan cua hang xang dau Phuong Trung
+1902	Buu dien huyen Thanh Oai
+1903	Thon Don Thu, xa Kim Thu (Chieu di Yen Nghia)
+1904	Thon Tan Thu, xa Kim Thu
+1905	Qua doi dien tram xang 370 Kim Bai 50m
+1906	Buu dien Kim Bai
+1907	UBND huyen Thanh Oai
+1908	Qua doi dien loi vao Benh vien huyen Thanh Oai 30m
+1909	Qua 70m loi vao tram bien ap Thanh Oai
+1910	Doi dien cua hang sua chua xe may Xuan Bac
+1911	Viglacera Tu Liem
+1912	Doi dien Cua hang xang dau Phu Ngoc
+1913	Nha van hoa thon Cho, nga 3 Binh Da
+1914	Den Noi, Binh Da
+1915	Doi dien Cao dang nghe Simco
+1916	311 Thach Bich
+1917	525 Thanh Luong
+1918	19 Thach Bich
+1919	Doi dien Cum Cong nghiep Thanh Oai
+1920	Loi vao lang Thuong Mao
+1921	Dai hoc Dai Nam
+1922	157 Pho Xom - THPT Tran Hung Dao
+1923	17 Ba La
+1924	Cong ty cay xanh Viet Nam - Yen Lo
+1925	Truong Tieu hoc Yen Nghia - Duong Yen Lo
+1926	Toa nha CT7F The Sparks Nam Cuong - Duong Yen Lo
+1927	Truong Tieu hoc Kien Hung - Da Sy
+1928	Gan duong vao chua Bia Ba (Nha cho La Khe tuyen BRT 01) - Ngo 32 Le Trong Tan (Ha Dong)
+1929	Cau vuot di bo nha cho Park City - Qua ngo 36 Le Trong Tan (Ha Dong)
+1930	412 Duong Quang Trung
+1931	Toa nha Thuy Loi Tower - 128 Le Trong Tan (Ha Dong)
+1932	Qua 40m ngo 5 Le Hong Phong (Ha Dong)
+1933	Mieu va chua Cau Do (Canh Truong THCS Le Hong Phong) - Le Hong Phong
+1934	Doi dien Bao hiem Xa hoi quan Ha Dong (Truong THCS Le Loi) - So 160 Le Loi (Ha Dong)
+1935	Cach nga tu Da Sy - Ha Tri khoang 120m
+1936	Chua lang Da Sy - Da Sy
+1937	Cho Ha Dong (Doi dien Bo Tu lenh Canh sat bien Viet Nam) - 81 Le Loi (Ha Dong)
+1938	Hoc vien Quan Y - Phung Hung (Ha Dong)
+1939	Lo 14B Khu do thi Trung Yen - Qua ngo 36 Trung Hoa
+1940	UBND Phuong Yen Hoa (Qua cau Cot khoang 100m) - Nguyen Khang
+1941	Doi dien cong ty Dien luc Me Linh
+1942	Truoc 150m doi dien cong lang Tay Xa
+1943	Truoc hat Quan ly Me Linh 100m
+1944	Truoc 60m UBND xa Hoang Kim
+1945	Qua doi dien tram bien ap Hoang Xa so 3
+1946	Doi dien Dinh lang thon 1 xa Thach Da
+1947	Qua 30m doi dien cong UBND xa Thach Da
+1948	Thach Da (Benh vien Da khoa Me Linh)
+1949	Qua 100m mieu Lung
+1950	Qua 50m Bia khu di tich lich su Mieu Mach Lung
+1951	Qua 10m tram bien ap Mach Lung
+1952	Truoc 100m duong vao thon Dep Thon
+1953	Truoc cua hang co khi Thuong Thanh
+1954	Doi dien Nghia Trang liet sy xa Trang Viet
+1955	Doi dien to dan pho so 35
+1956	Qua nga 3 Trung tam dieu duong
+1957	Doi dien trung tam giao dich Viettel (Dai Dong - Dai Mach)
+1958	Doi dien cua hang Son Truong Ky
+1959	Truong mam non Van Khe
+1960	Truoc cua hang Thep Viet Duc Son Dong
+1961	Nha van hoa thon Van Quan (canh Diem canh de)
+1962	Qua 20m Bia di tich lich su xa Van Khe
+1963	Qua 60m loi vao thon Thuong Le
+1964	Den Hai Ba Trung
+1965	UBND xa Trang Viet
+1966	Qua 30m doi dien duong vao lang Dong Cao
+1967	Tuong rao truong tieu hoc Thach Da B
+1968	Qua 100m cong lang Tay Xa
+1969	Doi dien hat Quan ly Me Linh
+1970	Truoc cua hang van phong pham Giang Hung
+1971	Doi dien tram bien ap Hoang Xa 3
+1972	Tuong rao UBND xa Thach Da cu
+1973	Qua 30m cong UBND xa Thach Da
+1974	Truoc 50m mieu Lung
+1975	Truoc 80m Bia khu di tich lich su Mieu Mach Lung
+1976	Truoc 50m doi dien tram bien ap Mach Lung
+1977	Qua 50m duong vao thon Dep Thon
+1978	Truoc 30m doi dien cua hang co khi Thuong Thanh
+1979	Qua 50m doi dien Nghia trang liet sy xa Trang Viet
+1980	Truoc to dan pho so 35
+1981	Trung tam giao dich Viettel (Dai Dong - Dai Mach)
+1982	Qua 30m cua hang Son Truong Ky
+1983	Qua 30m doi dien truong mam non Van Khe
+1984	Quay thuoc Bay Hien
+1985	Nha van hoa thon Van Quan (qua doi dien diem canh de 30m)
+1986	Doi dien truong THCS Van Khe A
+1987	Truoc 30m doi dien loi vao thon Thuong Le
+1988	Doi dien Den Hai Ba Trung
+1989	Qua 30m doi dien UBND xa Trang Viet
+1990	Truoc 60m duong vao lang Dong Cao
+1991	Truoc Nga tu Yen Binh 50m
+1992	Qua cong trung tam dao tao lai xe Hung Vuong 30m
+1993	Lang van hoa thon Quang Phuc
+1994	Truoc doi dien doanh trai quan doi nhan dan Viet Nam 15m
+1995	Xuong thuc hanh - Truong Cao dang cong nghiep ky thuat Tran Hung Dao
+1996	Truoc truong tieu hoc Yen Bai khu C
+1997	Truoc doi dien cay xang Yen Bai 20m
+1998	Doi dien lang van hoa Muoi
+1999	Truoc truong ban Ba Vanh 15m
+2000	Qua doi dien duong vao khu du lich Khoang Sanh, Suoi Tien 50m
+2001	Quay thuoc so 24
+2002	Cua hang nhua tien phong Sy Huong
+2003	Qua cong xom Tan Trai 30m
+2004	Cua hang sua chua o to xe may Tam Uy
+2005	Doi dien xom Dong Dam
+2006	Truoc loi vao Khu du lich Dam Long 150m
+2007	Doi dien Nhom kinh cao cap Tuan Ha
+2008	Truoc doi dien xom 17 lang Dan The 30m
+2009	Qua cua hang thuoc thu y Thanh Hien 30m
+2010	Truoc doi dien duong vao xa Thuan My 20m
+2011	Xom 4, Lo Nam Tu
+2012	Diem do xe buyt Bat Bat
+2013	Doi dien cua hang thuoc thu y Nga Cuong
+2014	UBND xa Tan Linh
+2015	Truoc nga 3 Vuon quoc gia Ba Vi 60m (Chieu di Da Chong)
+2016	Doi dien so 505 Tan Linh
+2017	Truong THCS trung tam nghien cuu bo va dong co Ba Vi
+2018	Doi dien Xang dau Toan Thang
+2019	Truoc Cau Kim 50m
+2020	Doi dien quay thuoc so 62
+2021	Cong ty Dau tu Thuong Mai PvaT
+2022	Truoc doi dien cua hang nhua tien phong Minh Sau
+2023	Dai ly sua 379 Minh Nguyet
+2024	Doi dien Cong ty Co phan An Thinh Group
+2025	Qua 50m doi dien duong vao thon Trai moi
+2026	Nha hang 5 Cua O
+2027	Qua loi vao Dai hoc Quoc gia Ha Noi 150m
+2028	Cong ty CP dich vu bao ve Khu cong nghe cao Hoa Lac
+2029	Cong ty TNHH Xay dung Sungeun Plant
+2030	Qua vong xuyen duong vao truong Dai hoc FPT 50m
+2031	Diem do xe buyt Hoa Lac
+2032	Qua Nga 4 Yen Binh 70m
+2033	Truoc cong trung tam dao tao lai xe Hung Vuong 50m
+2034	Doi dien lang van hoa thon Quang Phuc
+2035	Truoc cong doanh trai Quan doi nhan dan Viet Nam 10m
+2036	Truoc 30m doi dien Xuong thuc hanh Truong Cao dang cong nghiep ky thuat Tran Hung Dao
+2037	Doi dien truong tieu hoc Yen Bai khu C
+2038	Quay thuoc Yen Bai
+2039	Truoc truong mam non Yen Bai A 40m
+2040	Qua doi dien truong ban Ba Vanh 40m
+2041	Truoc doi dien duong vao khu du lich Khoang Sanh, Suoi Tien 70m
+2042	Truoc UBND xa Ba Trai 40m
+2043	Truoc cong lang van hoa thon 2
+2044	Truoc doi dien cong xom Tan Trai
+2045	Doi dien cua hang sua chua o to xe may Hong Son
+2046	Truoc xom Dong Dam
+2047	Qua doi dien duong vao Khu du lich Dam Long 100m
+2048	Truoc cua hang sua chua xe may Quang Vuong
+2049	Qua xom 17 lang Dan The 10m
+2050	Qua doi dien cua hang thuoc thu y Thanh Hien 30m
+2051	Qua doi dien duong vao xa Thuan My 30m
+2052	Qua Xom 4, Lo Nam Tu 19m
+2053	Doi dien dai ly Ga cap 1 Trong Hoa
+2054	Truoc cua hang Ga Dung Tinh
+2055	Doi dien UBND Xa Tan Linh
+2056	Truoc nga 3 Vuon quoc gia Ba Vi 50m (Chieu di Ben xe Son Tay)
+2057	Truoc nga 3 Cay xang Tan Linh 100m
+2058	Truoc doi dien truong THCS trung tam nghien cuu bo va dong co Ba Vi 40m
+2059	Qua Cau Kim 50m
+2060	Trung tam thuong mai mien nui Tan Linh
+2061	Truoc nga 3 Ao Vua 100m
+2062	Truoc cua hang nhua tien phong Minh Sau
+2063	Dai ly sua At Thao
+2064	Qua 30m Cong ty Co phan An Thinh Group
+2065	Truoc 30m duong vao thon Trai Moi
+2066	Cong ty CP xay dung Tien An
+2067	Dai ly sua Lan Anh
+2068	Doi dien cua hang dien nuoc Tuan Binh
+2069	Qua 30m doi dien cong ty CP dich vu bao ve KCN cao Hoa Lac
+2070	Quay thuoc so 15 - Thon 7 xa Thach Hoa
+2071	Truoc vong xuyen duong vao truong Dai hoc FPT 70m
+2072	Cong lang van hoa thon Tien Le
+2073	Truong THCS xa Song Phuong
+2074	Duong vao chua Ngu
+2075	Ngo 121 de Song Phuong
+2076	Nga 3 Dac So 2
+2077	377 de Song Phuong
+2078	Uy ban nhan dan xa Yen So
+2079	Qua nga 3 duong 422
+2080	373 de Cat Que
+2081	Nga 3 Ba Chang - Minh Khai
+2082	Nga 3 duong Dong Tam - Minh Khai
+2083	Truoc doi dien lang van hoa thon Thong Nhat
+2084	To Dinh Thuy Ung
+2085	Dinh lang Thap Thuong
+2086	34-36 Phan Dinh Phung (Thi tran Phung)
+2087	37-39 Phan Dinh Phung (Thi tran Phung)
+2088	Gan ngo 534 Le Trong Tan - Ha Dong
+2089	Gan ngo Chua Pho Quang
+2090	Nha may SYM Ha Dong
+2091	Truoc loi vao UBND huyen Hoai Duc
+2092	631 de Song Phuong
+2093	Cua hang dien lanh Thai Tuan
+2094	Chua Ba
+2095	Dong y duoc Bao Long
+2096	Qua loi re vao UBND xa An Khanh
+2097	Cho Phu An - Chan cau vuot An Khanh
+2098	Qua nga tu duong 72 cu-Le Trong Tan
+2099	Doi dien Cong vien Thien duong Bao Son
+2100	Gan duong vao truong Tieu hoc Duong Noi
+2101	Toa nha 18T1 - Khu do thi Sudico
+2102	Nga 3 duong Yen So-de Song Phuong
+2103	Doi dien cong lang van hoa thon Tien Le
+2104	Doi dien Truong THCS xa Song Phuong
+2105	Doi dien duong vao chua Ngu
+2106	Doi dien khu dan cu thon 6 Cong Cau
+2107	Doi dien nga 3 Dac So 2
+2108	Doi dien nga 3 Yen Thai - Yen So
+2109	Doi dien Uy ban nhan dan xa Yen So
+2110	Truoc nga 3 duong 422
+2111	Thon 7 Cat Que
+2112	Doi dien nga 3 Ba Chang - Minh Khai
+2113	Doi dien nga 3 duong Dong Tam - Minh Khai
+2114	Qua lang van hoa thon Thong Nhat
+2115	Doi dien Cong an Thi tran Phung
+2116	Doi dien Tram bien ap Thap Thuong
+2117	Doi dien ngo 534 Le Trong Tan - Ha Dong
+2118	Doi dien ngo Chua Pho Quang
+2119	Doi dien Nha may SYM Ha Dong
+2120	De Phuong Vien - Song Phuong
+2121	Doi dien 643 de Song Phuong
+2122	Xom chua Dinh Van Lung
+2123	Khu do thi Nam An Khanh
+2124	Cau vuot An Khanh
+2125	Pho Cho - An Khanh
+2126	Gan nga tu duong 72 cu-Le Trong Tan
+2127	Cong vien Thien duong Bao Son
+2128	Doi dien duong vao truong Tieu hoc Duong Noi
+2129	Doi dien toa nha 18T1 - Khu do thi Sudico
+2130	Doi dien nga 3 duong Yen So-de Song Phuong
+2131	Truoc nga 3 Quoc lo 2 - cao toc Noi Bai, Lao Cai 50m
+2132	Qua duong vao thon Dong Gia 50m
+2133	Thon Bac Ha, xa Quang Tien
+2134	Khu cong nghiep Noi Bai
+2135	Nga 3 Quang Hoi
+2136	Xa Mai Dinh
+2137	Doi dien truong Trung cap KTKT da nganh Soc Son
+2138	Nga 4 Doi Rada
+2139	Cach cong lang Duoc Thuong 30m
+2140	Dai phat thanh huyen Soc Son
+2141	Doi dien Truong cao dang thuc hanh Da Phuc
+2142	Ban Quan ly du an huyen Soc Son
+2143	Cong ty Nam Son - so 122 duong Nui Doi
+2144	So 158 duong Nui Doi
+2145	Diem do xe buyt Nui Doi
+2146	Qua nga 3 Quoc lo 2 - cao toc Noi Bai, Lao Cai 50m
+2147	Duong vao thon Dong Gia
+2148	Thon Bac Ha, xa Quang Tien
+2149	Nha cho doi dien Khu cong nghiep Noi Bai
+2150	Nga 3 Quang Hoi
+2151	Doi dien Chua Phat Quang
+2152	Truong Dai hoc Thu do Ha Noi
+2153	Nga 4 Doi Rada
+2154	Doi dien Trung tam Quang cao Xuan Du
+2155	Tuong rao Tram thu y huyen Soc Son
+2156	Truong cao dang thuc hanh Da Phuc
+2157	So nha 73 duong Nui Doi
+2158	So nha 227 duong Nui Doi
+2159	Khu A Cot dien SS1
+2160	Cua hang dien lanh Duc Nguyen
+2161	Doi dien truong THPT Xuan Giang
+2162	Gan doi dien UBND xa Xuan Giang
+2163	Xom Dong May - Thon Xuan Tao (chieu di)
+2164	Cong ty Dau tu va Thuong mai khoang san Soc Son
+2165	Doi dien Cong ty CP Dau tu thuong mai va khoang san Soc Son
+2166	Tram y te xa Phu Linh
+2167	Truong tieu hoc Phu Linh
+2168	Hoc vien Phat giao Viet Nam
+2169	Lu doan tac chien dien tu 87
+2170	Trung doan 141
+2171	Doi dien Phong kham da khoa Xuan Giang
+2172	So nha 190 duong Nui Doi
+2173	Qua nga tu loi vao Dai hoc Dien luc 50m
+2174	Doi dien Km 0+500 - Tinh lo 296
+2175	Pho Ma - Phu Linh
+2176	Pho Ma - Phu Linh
+2177	Qua UBND xa Tan Minh
+2178	Doi dien Km 2+250 - Tinh lo 296
+2179	UBND xa Bac Phu
+2180	Nha van hoa thon Xuan Tang
+2181	Doi dien lang Dong Bong
+2182	Gan nga 3 Tan Thanh
+2183	UBND - Tram y te xa Tan Hung
+2184	Doi dien Dinh lang Tien Tao
+2185	Gan Cau lac bo nguoi cao tuoi thon Tien Tao
+2186	Doi dien UBND xa Viet Long
+2187	Gan doc Da thon Luong Phuc
+2188	Doi dien tram bom Tang Long
+2189	Doi dien dinh lang Tang Long
+2190	Qua ben do Dong Bac
+2191	Doi dien thon Cam Ha
+2192	Xom 10 thon Ngo Dao
+2193	Nha van hoa thon Ngo Dao (chieu Xuan Giang)
+2194	Doi dien truong Mam non thon Hieu Chan
+2195	Doi dien cua hang dien lanh Duc Nguyen
+2196	Truong THPT Xuan Giang
+2197	Gan UBND xa Xuan Giang
+2198	Xom Dong May - Thon Xuan Tao (chieu ve)
+2199	Phong kham da khoa Xuan Giang
+2200	Km 0+600 - Tinh lo 296
+2201	Doi dien gan UBND xa Tan Minh
+2202	Km 2+300 - Tinh lo 296
+2203	Doi dien UBND xa Bac Phu
+2204	Doi dien Nha van hoa thon Xuan Tang
+2205	Lang Dong Bong
+2206	Truong Mam non xa Tan Hung
+2207	Nga 3 Tan Thanh
+2208	Dinh lang Tien Tao
+2209	Doi dien cau lac bo nguoi cao tuoi thon Tien Tao
+2210	UBND xa Viet Long
+2211	Doc Da thon Luong Phuc
+2212	Tram bom Tang Long
+2213	Dinh lang Tang Long
+2214	Doi dien gan ben do Dong Bac
+2215	Thon Cam Ha
+2216	Xom 10 thon Ngo Dao
+2217	Nha van hoa thon Ngo Dao (chieu Bac Phu)
+2218	Truong Mam non thon Hieu Chan
+2219	165 Thi tran Thuong Tin
+2220	Qua loi re tram bien ap 500KV (Khu Ga Thuong Tin) 50m
+2221	Gan cua hang thoi trang Zulia’s
+2222	Qua Sieu thi Lan Chi Mart 100m
+2223	Canh cua hang do go Diep Trang
+2224	Truoc nha 70-72 thon Van Hoa xa Van Tao
+2225	Doi dien Truong mam non tu thuc Binh Minh
+2226	Doi dien Cay xang Lien Ninh
+2227	Qua loi re vao Dinh den lang Yen Phu 100m
+2228	Cach duong vao UBND xa Lien Ninh 60m
+2229	Doi dien nha may thuc an chan nuoi Ngoc Hoi
+2230	Truoc trung tam sua chua va bao hanh Hyundai Dong Nam
+2231	Doi 7 thon Ngoc Hoi
+2232	Duong vao Trai tam giam so 2
+2233	Duong vao Xi Nghiep 198
+2234	Diem do xe buyt Hong Van (Thuong Tin)
+2235	Doi dien 83 Pho Ga, thi tran Thuong Tin
+2236	Doi dien Tram bien ap 500KV
+2237	Doi dien quan com Luan Coi
+2238	Doi dien Cong ty San xuat ong thep Sao Viet
+2239	Cong ty CP dau tu lien doanh Viet Anh
+2240	Qua 100m cong lang No Ban
+2241	Qua 100m duong vao Doan Cong binh H39
+2242	Doi dien tap the Cong ty 810
+2243	Cach duong vao Dinh Lang Yen Phu 150m
+2244	Cach duong vao UBND xa Lien Ninh 50m
+2245	Truoc cua hang ep tuy o thuy luc Binh Xuyen
+2246	Doi dien trung tam sua chua va bao hanh Hyundai Dong Nam
+2247	Cua hang son Lucky House
+2248	Dinh Lang Van Giap
+2249	Doi dien duong vao Lang nghe tien Nhi Khe
+2250	Canh cot moc H2/2
+2251	Cua hang do go Thanh Binh
+2252	Doi dien do go Doc Hang
+2253	Doi dien dinh Nguon
+2254	Rang nhan - Gan ga Tia
+2255	Giua so nha 37-39 pho Tia
+2256	Qua duong vao xuong theu tay
+2257	Dong y Phuc Kien (Cho Cau)
+2258	Cua hang dien thoai di dong Minh Thanh
+2259	Doi dien cong ty PTXD Hoang Long
+2260	Duong vao Benh vien tam than Trung uong
+2261	Qua Ben xe Thuong Tin 50m
+2262	Truoc nha 89-91 thon Phu Thinh
+2263	Diem do xe buyt Phu Minh
+2264	Truoc cua hang do go Manh Dien Quyet Tu
+2265	Cua hang do go Phan Thuy
+2266	Qua cua hang do go Tan Lan
+2267	Cach dinh Nguon 70m
+2268	Doi dien cua hang Nokia
+2269	Cua hang Nokia Cho Cau
+2270	So 78 Pho Tia
+2271	Cua hang binh nuoc nong sieu toc
+2272	Cua hang Thanh Huong
+2273	Cach cong ty PTXD Hoang Long 50m
+2274	Ben xe Thuong Tin
+2275	Doi dien Van phong Luat su VLAW
+2276	Truoc nha 92 - 94 thon Phu Thinh
+2277	Qua duong vao ham chui Quoc lo 1B - Phu Dong
+2278	270-272 Ha Huy Tap
+2279	Cong ty Giay Yen Vien
+2280	664 Ha Huy Tap
+2281	Khu sinh thai Canh Buom Xanh
+2282	Qua doi dien cong Khu cong nghiep Ninh Hiep 50m
+2283	Tram bien ap so 10
+2284	Buu dien xa Ninh Hiep
+2285	Xom 8 - Gan duong vao Dinh Xuyen
+2286	Giap cua hang vai Dung Thuy
+2287	Qua duong vao Truong THCS Phu Dong
+2288	Qua loi vao Thon Dong Vien, xa Phu Dong 20m
+2289	Trung Mau
+2290	Doi dien 38 Doc La
+2291	Doi dien Xuong ve Tranh son dau Mai Hong
+2292	Gan duong vao ham chui Quoc lo 1B - Phu Dong
+2293	115 Ha Huy Tap
+2294	Doi dien 274 Ha Huy Tap
+2295	Doi dien 666 Ha Huy Tap
+2296	Doi dien Cong ty Giay Yen Vien
+2297	Doi dien Khu Sinh thai Canh buom Xanh
+2298	Qua cong Khu cong nghiep Ninh Hiep 70m
+2299	Doi dien buu dien xa Ninh Hiep
+2300	Xom 8 - xa Ninh Hiep
+2301	Cuoi cho vai Ninh Hiep
+2302	Truoc kiot so 19B - Cho vai Ninh Hiep
+2303	Gan duong vao Truong THCS Phu Dong
+2304	Truoc loi vao thon Dong Vien, xa Phu Dong 10m
+2305	So 1 Doc La
+2306	Tram bien ap Trung Quan 1
+2307	Qua cau Anh Troi 70m
+2308	Diem do xe buyt Tan Dan (Phu Xuyen)
+2309	Doi dien gan cua hang xang dau xa Tan Dan
+2310	Doi dien tram y te xa Son Ha
+2311	Tui xach Tien Tham
+2312	Doi dien cafe Me Trang
+2313	Nha hang Bang Lieu
+2314	Do go My Ha
+2315	Doi dien do go Ich Bui
+2316	Cua hang dien lanh Hang - Diu
+2317	Gan cua hang xang dau xa Tan Dan
+2318	Qua nga 3 vao truong THPT Tan Dan 30m
+2319	UBND xa Son Ha
+2320	Tui xach Huan Nhan
+2321	Cua hang Truong Hoa
+2322	Doi dien nha hang Bang Lieu
+2323	Doi dien do go My Ha
+2324	Doi dien noi that Duy Hung
+2325	Dinh Lang Khon
+2326	Qua nga 3 TL 429 di Phu Tuc 200m
+2327	Gan moc Km11+400 - TL 429
+2328	Qua loi re vao chua Long Lai
+2329	Gan moc Km9+600 - TL 429
+2330	Gan cot moc Km8+500 - TL 429
+2331	Truoc cau Dong Quan 70m
+2332	Doi dien gan truong THPT Dong Quan
+2333	Doi dien cot moc Km5 - TL 429
+2334	Nha van hoa thon Tu Duong
+2335	Gan nga 3 Phu Tuc di TL 429 150m
+2336	Doi dien moc Km11+400 - TL 429
+2337	Qua doi dien loi re vao chua Long Lai
+2338	Doi dien moc Km9+500 - TL 429
+2339	Doi dien moc Km8+500 - TL 429
+2340	Qua cau Dong Quan 50m
+2341	Gan truong THPT Dong Quan
+2342	Gan moc Km5 - TL 429
+2343	Nha van hoa khu dan cu Pho Tia
